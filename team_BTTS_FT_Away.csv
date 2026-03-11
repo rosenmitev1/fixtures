@@ -1,409 +1,647 @@
-Period,Country,League,Team,Matches Played,BTTS YES %,BTTS NO %
-Current season,Netherlands,Eredivisie,Zwolle,12,100,0
-Current season,Germany,Bundesliga,Eintracht Frankfurt,12,92,8
-Current season,Netherlands,Eredivisie,Nijmegen,13,92,8
-Current season,Netherlands,Eredivisie,Ajax,12,92,8
-Current season,Saudi Arabia,Saudi Professional League,Al Khaleej,13,92,8
-Current season,Denmark,Superliga,Aarhus,11,91,9
-Current season,Russia,Premier League,Lokomotiv Moscow,10,90,10
-Current season,England,Championship,Southampton,18,89,11
-Current season,England,Premier League,Manchester Utd,15,87,13
-Current season,Belgium,Jupiler Pro League,Genk,13,85,15
-Current season,Spain,LaLiga,Elche,12,83,17
-Current season,England,Championship,Leicester,18,83,17
-Current season,Netherlands,Eredivisie,Utrecht,12,83,17
-Current season,Turkey,Super Lig,Alanyaspor,12,83,17
-Current season,Greece,Super League,Kifisia,11,82,18
-Current season,Austria,Bundesliga,Austria Vienna,10,80,20
-Current season,Austria,Bundesliga,Salzburg,10,80,20
-Current season,Spain,LaLiga2,Racing Santander,14,79,21
-Current season,Spain,LaLiga2,Cordoba,14,79,21
-Current season,Belgium,Jupiler Pro League,Waregem,14,79,21
-Current season,Spain,LaLiga,Betis,13,77,23
-Current season,Spain,LaLiga,Real Sociedad,13,77,23
-Current season,Spain,LaLiga,Barcelona,13,77,23
-Current season,Italy,Serie A,Genoa,13,77,23
-Current season,Netherlands,Eredivisie,Sittard,13,77,23
-Current season,England,League Two,Barrow,17,76,24
-Current season,England,League One,Reading,16,75,25
-Current season,Germany,2. Bundesliga,Holstein Kiel,12,75,25
-Current season,Germany,2. Bundesliga,SG Dynamo Dresden,12,75,25
-Current season,Germany,Bundesliga,Stuttgart,12,75,25
-Current season,France,Ligue 1,Strasbourg,12,75,25
-Current season,France,Ligue 2,Le Mans,12,75,25
-Current season,Netherlands,Eredivisie,Twente,12,75,25
-Current season,Turkey,Super Lig,Konyaspor,12,75,25
-Current season,Turkey,Super Lig,Rizespor,12,75,25
-Current season,Saudi Arabia,Saudi Professional League,Al Ittihad,12,75,25
-Current season,England,Premier League,Burnley,15,73,27
-Current season,England,Premier League,Chelsea,15,73,27
-Current season,Turkey,Super Lig,Karagumruk,11,73,27
-Current season,Scotland,Premiership,Kilmarnock,15,73,27
-Current season,Denmark,Superliga,Silkeborg,11,73,27
-Current season,Denmark,Superliga,FC Copenhagen,11,73,27
-Current season,Denmark,Superliga,Odense,11,73,27
-Current season,Denmark,Superliga,Fredericia,11,73,27
-Current season,Croatia,HNL,Osijek,11,73,27
-Current season,Saudi Arabia,Saudi Professional League,Al Qadsiah,11,73,27
-Current season,England,League Two,Tranmere,18,72,28
-Current season,England,League One,Wigan,17,71,29
-Current season,England,Premier League,Bournemouth,14,71,29
-Current season,Spain,LaLiga2,Almeria,14,71,29
-Current season,Italy,Serie B,Venezia,14,71,29
-Current season,Italy,Serie B,Cesena,14,71,29
-Current season,Italy,Serie B,Carrarese,14,71,29
-Current season,Italy,Serie B,Sampdoria,14,71,29
-Current season,Italy,Serie B,Pescara,14,71,29
-Current season,Belgium,Jupiler Pro League,RAAL La Louviere,14,71,29
-Current season,Australia,A-League,Newcastle Jets,10,70,30
-Current season,Austria,Bundesliga,Wolfsberger AC,10,70,30
-Current season,England,League One,Barnsley,16,69,31
-Current season,Germany,2. Bundesliga,Hannover,13,69,31
-Current season,Spain,LaLiga,Girona,13,69,31
-Current season,Italy,Serie A,Pisa,13,69,31
-Current season,France,Ligue 2,Rodez,13,69,31
-Current season,England,Championship,Ipswich,16,69,31
-Current season,Netherlands,Eredivisie,PSV,13,69,31
-Current season,England,League Two,Chesterfield,18,67,33
-Current season,Germany,2. Bundesliga,Darmstadt,12,67,33
-Current season,Germany,2. Bundesliga,Preussen Munster,12,67,33
-Current season,Germany,2. Bundesliga,Nurnberg,12,67,33
-Current season,Germany,2. Bundesliga,Greuther Furth,12,67,33
-Current season,Germany,2. Bundesliga,Bochum,12,67,33
-Current season,Spain,LaLiga2,Andorra,15,67,33
-Current season,Germany,Bundesliga,Hoffenheim,12,67,33
-Current season,Germany,Bundesliga,Mainz,12,67,33
-Current season,Germany,Bundesliga,Wolfsburg,12,67,33
-Current season,Germany,Bundesliga,Dortmund,12,67,33
-Current season,France,Ligue 1,Paris FC,12,67,33
-Current season,France,Ligue 1,Nice,12,67,33
-Current season,France,Ligue 2,Grenoble,12,67,33
-Current season,France,Ligue 2,Guingamp,12,67,33
-Current season,France,Ligue 2,Dunkerque,12,67,33
-Current season,England,Championship,Coventry,18,67,33
-Current season,England,Championship,Middlesbrough,18,67,33
-Current season,England,Championship,Norwich,18,67,33
-Current season,Netherlands,Eredivisie,Excelsior,12,67,33
-Current season,Portugal,Liga Portugal,Sporting CP,12,67,33
-Current season,Portugal,Liga Portugal,Alverca,12,67,33
-Current season,Turkey,Super Lig,Samsunspor,12,67,33
-Current season,Turkey,Super Lig,Trabzonspor,12,67,33
-Current season,Scotland,Premiership,St. Mirren,15,67,33
-Current season,Croatia,HNL,Lok. Zagreb,12,67,33
-Current season,Croatia,HNL,Slaven Belupo,12,67,33
-Current season,Saudi Arabia,Saudi Professional League,Al Hilal,12,67,33
-Current season,Saudi Arabia,Saudi Professional League,Al Fayha,12,67,33
-Current season,Saudi Arabia,Saudi Professional League,Neom SC,12,67,33
-Current season,Saudi Arabia,Saudi Professional League,Damac,12,67,33
-Current season,Greece,Super League,Levadiakos,12,67,33
-Current season,England,League One,Bradford City,17,65,35
-Current season,England,League Two,MK Dons,17,65,35
-Current season,England,Championship,Derby,17,65,35
-Current season,England,Championship,Watford,17,65,35
-Current season,Germany,2. Bundesliga,Braunschweig,11,64,36
-Current season,Germany,2. Bundesliga,Dusseldorf,11,64,36
-Current season,England,Premier League,Fulham,14,64,36
-Current season,England,Premier League,Leeds,14,64,36
-Current season,Spain,LaLiga2,Mirandes,14,64,36
-Current season,Italy,Serie A,Cagliari,14,64,36
-Current season,Italy,Serie A,Bologna,14,64,36
-Current season,Italy,Serie B,Catanzaro,14,64,36
-Current season,Germany,Bundesliga,Augsburg,11,64,36
-Current season,Scotland,Premiership,Rangers,14,64,36
-Current season,Scotland,Premiership,Dundee Utd,14,64,36
-Current season,Australia,A-League,Brisbane Roar,11,64,36
-Current season,Belgium,Jupiler Pro League,Dender,14,64,36
-Current season,Belgium,Jupiler Pro League,St. Truiden,14,64,36
-Current season,Belgium,Jupiler Pro League,Gent,14,64,36
-Current season,Denmark,Superliga,Vejle,11,64,36
-Current season,Austria,Bundesliga,Ried,11,64,36
-Current season,Austria,Bundesliga,Tirol,11,64,36
-Current season,Austria,Bundesliga,SK Rapid,11,64,36
-Current season,Croatia,HNL,Rijeka,11,64,36
-Current season,Saudi Arabia,Saudi Professional League,Al Fateh,11,64,36
-Current season,England,League Two,Notts Co,16,63,38
-Current season,Germany,2. Bundesliga,Elversberg,13,62,38
-Current season,Spain,LaLiga,Villarreal,13,62,38
-Current season,Spain,LaLiga,Espanyol,13,62,38
-Current season,Spain,LaLiga,Celta Vigo,13,62,38
-Current season,Spain,LaLiga,Sevilla,13,62,38
-Current season,Italy,Serie A,Udinese,13,62,38
-Current season,Italy,Serie B,Palermo,13,62,38
-Current season,France,Ligue 2,Nancy,13,62,38
-Current season,Netherlands,Eredivisie,G.A. Eagles,13,62,38
-Current season,Portugal,Liga Portugal,Braga,13,62,38
-Current season,Turkey,Super Lig,Fenerbahce,13,62,38
-Current season,Croatia,HNL,Istra 1961,13,62,38
-Current season,Croatia,HNL,Vukovar 1991,13,62,38
-Current season,Saudi Arabia,Saudi Professional League,Al Riyadh,13,62,38
-Current season,England,League One,Bolton,18,61,39
-Current season,England,League One,Huddersfield,18,61,39
-Current season,England,League One,Burton,18,61,39
-Current season,England,League One,AFC Wimbledon,18,61,39
-Current season,England,Championship,Oxford Utd,18,61,39
-Current season,England,Premier League,Liverpool,15,60,40
-Current season,Spain,LaLiga2,Dep. La Coruna,15,60,40
-Current season,Spain,LaLiga2,Leganes,15,60,40
-Current season,Italy,Serie B,Frosinone,15,60,40
-Current season,Scotland,Premiership,Hibernian,15,60,40
-Current season,Scotland,Premiership,Celtic,15,60,40
-Current season,Australia,A-League,Auckland FC,10,60,40
-Current season,England,League One,Wycombe,17,59,41
-Current season,England,League One,Stevenage,17,59,41
-Current season,England,League Two,Swindon,17,59,41
-Current season,England,League Two,Shrewsbury,17,59,41
-Current season,England,League Two,Crewe,17,59,41
-Current season,England,League Two,Cheltenham,17,59,41
-Current season,England,Championship,Hull,17,59,41
-Current season,England,Championship,Preston,17,59,41
-Current season,Germany,2. Bundesliga,Arminia Bielefeld,12,58,42
-Current season,Germany,Bundesliga,Bayer Leverkusen,12,58,42
-Current season,Germany,Bundesliga,Bayern Munich,12,58,42
-Current season,Germany,Bundesliga,Heidenheim,12,58,42
-Current season,Germany,Bundesliga,FC Koln,12,58,42
-Current season,France,Ligue 1,Metz,12,58,42
-Current season,France,Ligue 1,Brest,12,58,42
-Current season,France,Ligue 1,Lens,12,58,42
-Current season,Netherlands,Eredivisie,Heerenveen,12,58,42
-Current season,Portugal,Liga Portugal,Rio Ave,12,58,42
-Current season,Portugal,Liga Portugal,Nacional,12,58,42
-Current season,Portugal,Liga Portugal,Arouca,12,58,42
-Current season,Turkey,Super Lig,Kasimpasa,12,58,42
-Current season,Turkey,Super Lig,Genclerbirligi,12,58,42
-Current season,Croatia,HNL,Gorica,12,58,42
-Current season,Croatia,HNL,Varazdin,12,58,42
-Current season,Saudi Arabia,Saudi Professional League,Al Hazem,12,58,42
-Current season,Saudi Arabia,Saudi Professional League,Al Najma,12,58,42
-Current season,Saudi Arabia,Saudi Professional League,Al Ettifaq,12,58,42
-Current season,Saudi Arabia,Saudi Professional League,Al Taawon,12,58,42
-Current season,England,Premier League,Newcastle,14,57,43
-Current season,England,Premier League,Aston Villa,14,57,43
-Current season,England,Premier League,Brighton,14,57,43
-Current season,Spain,LaLiga2,Zaragoza,14,57,43
-Current season,Italy,Serie A,Fiorentina,14,57,43
-Current season,Italy,Serie B,Reggiana,14,57,43
-Current season,Italy,Serie B,Juve Stabia,14,57,43
-Current season,Scotland,Premiership,Livingston,14,57,43
-Current season,Belgium,Jupiler Pro League,Club Brugge KV,14,57,43
-Current season,Belgium,Jupiler Pro League,Royale Union SG,14,57,43
-Current season,England,League One,Mansfield,16,56,44
-Current season,England,League Two,Salford,18,56,44
-Current season,England,Championship,QPR,18,56,44
-Current season,France,Ligue 1,Monaco,11,55,45
-Current season,France,Ligue 2,Amiens,11,55,45
-Current season,France,Ligue 2,Pau FC,11,55,45
-Current season,Denmark,Superliga,Nordsjaelland,11,55,45
-Current season,Denmark,Superliga,Sonderjyske,11,55,45
-Current season,Denmark,Superliga,Randers FC,11,55,45
-Current season,Austria,Bundesliga,Hartberg,11,55,45
-Current season,Austria,Bundesliga,LASK,11,55,45
-Current season,Greece,Super League,OFI Crete,11,55,45
-Current season,Greece,Super League,PAOK,11,55,45
-Current season,Spain,LaLiga,Real Madrid,13,54,46
-Current season,Spain,LaLiga,Mallorca,13,54,46
-Current season,Spain,LaLiga,Valencia,13,54,46
-Current season,Spain,LaLiga,Ath Bilbao,13,54,46
-Current season,Spain,LaLiga2,Cultural Leonesa,13,54,46
-Current season,Spain,LaLiga2,Ceuta,13,54,46
-Current season,Spain,LaLiga2,Granada CF,13,54,46
-Current season,Spain,LaLiga2,Gijon,13,54,46
-Current season,Italy,Serie A,Sassuolo,13,54,46
-Current season,Italy,Serie A,Atalanta,13,54,46
-Current season,France,Ligue 1,Lyon,13,54,46
-Current season,France,Ligue 1,PSG,13,54,46
-Current season,France,Ligue 2,Reims,13,54,46
-Current season,Netherlands,Eredivisie,Groningen,13,54,46
-Current season,Netherlands,Eredivisie,Heracles,13,54,46
-Current season,Netherlands,Eredivisie,AZ Alkmaar,13,54,46
-Current season,Turkey,Super Lig,Kayserispor,13,54,46
-Current season,Scotland,Premiership,Motherwell,13,54,46
-Current season,Belgium,Jupiler Pro League,Charleroi,13,54,46
-Current season,Belgium,Jupiler Pro League,KV Mechelen,13,54,46
-Current season,England,League One,Stockport County,17,53,47
-Current season,England,League One,Cardiff,17,53,47
-Current season,England,League Two,Harrogate,17,53,47
-Current season,England,League Two,Bristol Rovers,17,53,47
-Current season,England,League Two,Walsall,17,53,47
-Current season,England,League Two,Colchester,17,53,47
-Current season,England,Premier League,West Ham,15,53,47
-Current season,England,Premier League,Crystal Palace,15,53,47
-Current season,Italy,Serie B,Sudtirol,15,53,47
-Current season,England,Championship,Millwall,17,53,47
-Current season,England,Championship,Portsmouth,17,53,47
-Current season,England,Championship,Wrexham,17,53,47
-Current season,England,League One,Leyton Orient,16,50,50
-Current season,England,League One,Peterborough,18,50,50
-Current season,England,League Two,Newport,18,50,50
-Current season,Germany,2. Bundesliga,Paderborn,12,50,50
-Current season,Germany,2. Bundesliga,Magdeburg,12,50,50
-Current season,England,Premier League,Tottenham,14,50,50
-Current season,England,Premier League,Manchester City,14,50,50
-Current season,England,Premier League,Arsenal,16,50,50
-Current season,Spain,LaLiga2,Malaga,14,50,50
-Current season,Spain,LaLiga2,Cadiz CF,14,50,50
-Current season,Spain,LaLiga2,Albacete,14,50,50
-Current season,Spain,LaLiga2,Real Sociedad B,14,50,50
-Current season,Spain,LaLiga2,Las Palmas,14,50,50
-Current season,Italy,Serie A,Juventus,14,50,50
-Current season,Italy,Serie A,AC Milan,14,50,50
-Current season,Italy,Serie B,Avellino,14,50,50
-Current season,Italy,Serie B,Spezia,14,50,50
-Current season,Italy,Serie B,Bari,14,50,50
-Current season,Italy,Serie B,Monza,14,50,50
-Current season,Germany,Bundesliga,Union Berlin,12,50,50
-Current season,Germany,Bundesliga,RB Leipzig,12,50,50
-Current season,France,Ligue 1,Nantes,12,50,50
-Current season,France,Ligue 2,Boulogne,12,50,50
-Current season,England,Championship,West Brom,18,50,50
-Current season,England,Championship,Charlton,18,50,50
-Current season,Netherlands,Eredivisie,Telstar,12,50,50
-Current season,Portugal,Liga Portugal,Santa Clara,12,50,50
-Current season,Portugal,Liga Portugal,Gil Vicente,12,50,50
-Current season,Portugal,Liga Portugal,Estrela,12,50,50
-Current season,Turkey,Super Lig,Besiktas,12,50,50
-Current season,Turkey,Super Lig,Basaksehir,12,50,50
-Current season,Turkey,Super Lig,Gaziantep,12,50,50
-Current season,Australia,A-League,Melbourne City,10,50,50
-Current season,Belgium,Jupiler Pro League,Leuven,14,50,50
-Current season,Austria,Bundesliga,Grazer AK,10,50,50
-Current season,Saudi Arabia,Saudi Professional League,Al Kholood,12,50,50
-Current season,Saudi Arabia,Saudi Professional League,Al Okhdood,12,50,50
-Current season,Greece,Super League,Aris,12,50,50
-Current season,England,League Two,Grimsby,17,47,53
-Current season,England,League Two,Bromley,17,47,53
-Current season,England,League Two,Fleetwood,17,47,53
-Current season,England,Premier League,Nottingham,15,47,53
-Current season,England,Premier League,Brentford,15,47,53
-Current season,England,Championship,Bristol City,17,47,53
-Current season,England,Championship,Sheffield Wed,17,47,53
-Current season,Germany,2. Bundesliga,Karlsruher SC,13,46,54
-Current season,Spain,LaLiga,Atl. Madrid,13,46,54
-Current season,Spain,LaLiga2,Eibar,13,46,54
-Current season,Italy,Serie B,Empoli,13,46,54
-Current season,Germany,Bundesliga,St. Pauli,13,46,54
-Current season,France,Ligue 2,Clermont,13,46,54
-Current season,Netherlands,Eredivisie,Sparta Rotterdam,13,46,54
-Current season,Portugal,Liga Portugal,Moreirense,13,46,54
-Current season,Belgium,Jupiler Pro League,Westerlo,13,46,54
-Current season,Saudi Arabia,Saudi Professional League,Al Nassr,13,46,54
-Current season,Germany,2. Bundesliga,Kaiserslautern,11,45,55
-Current season,Germany,2. Bundesliga,Hertha Berlin,11,45,55
-Current season,Germany,Bundesliga,Hamburger SV,11,45,55
-Current season,France,Ligue 1,Marseille,11,45,55
-Current season,France,Ligue 2,Troyes,11,45,55
-Current season,Portugal,Liga Portugal,AFS,11,45,55
-Current season,Turkey,Super Lig,Kocaelispor,11,45,55
-Current season,Russia,Premier League,Krylya Sovetov,11,45,55
-Current season,Denmark,Superliga,Midtjylland,11,45,55
-Current season,Denmark,Superliga,Viborg,11,45,55
-Current season,Austria,Bundesliga,Sturm Graz,11,45,55
-Current season,Greece,Super League,AEL Larissa,11,45,55
-Current season,Greece,Super League,Panserraikos,11,45,55
-Current season,England,Championship,Birmingham,18,44,56
-Current season,England,Premier League,Everton,14,43,57
-Current season,Spain,LaLiga2,Valladolid,14,43,57
-Current season,Spain,LaLiga2,Castellon,14,43,57
-Current season,Spain,LaLiga2,Burgos CF,14,43,57
-Current season,Italy,Serie A,Verona,14,43,57
-Current season,Italy,Serie B,Padova,14,43,57
-Current season,Italy,Serie B,Entella,14,43,57
-Current season,Scotland,Premiership,Hearts,14,43,57
-Current season,Germany,Bundesliga,B. Monchengladbach,12,42,58
-Current season,Germany,Bundesliga,Werder Bremen,12,42,58
-Current season,France,Ligue 1,Toulouse,12,42,58
-Current season,France,Ligue 1,Auxerre,12,42,58
-Current season,France,Ligue 1,Rennes,12,42,58
-Current season,France,Ligue 2,Laval,12,42,58
-Current season,Netherlands,Eredivisie,NAC Breda,12,42,58
-Current season,Netherlands,Eredivisie,FC Volendam,12,42,58
-Current season,Netherlands,Eredivisie,Feyenoord,12,42,58
-Current season,Portugal,Liga Portugal,Estoril,12,42,58
-Current season,Portugal,Liga Portugal,Benfica,12,42,58
-Current season,Turkey,Super Lig,Eyupspor,12,42,58
-Current season,Greece,Super League,AEK Athens,12,42,58
-Current season,Greece,Super League,Olympiacos Piraeus,12,42,58
-Current season,Greece,Super League,Volos,12,42,58
-Current season,England,League One,Doncaster,17,41,59
-Current season,England,League One,Luton,17,41,59
-Current season,England,League One,Plymouth,17,41,59
-Current season,England,League One,Blackpool,17,41,59
-Current season,England,League One,Exeter,17,41,59
-Current season,England,League Two,Gillingham,17,41,59
-Current season,England,League Two,Barnet,17,41,59
-Current season,England,League Two,Cambridge Utd,17,41,59
-Current season,England,League Two,Accrington,17,41,59
-Current season,England,Championship,Swansea,17,41,59
-Current season,Italy,Serie A,Napoli,15,40,60
-Current season,Russia,Premier League,CSKA Moscow,10,40,60
-Current season,Russia,Premier League,FK Rostov,10,40,60
-Current season,Russia,Premier League,Akron Togliatti,10,40,60
-Current season,Russia,Premier League,Rubin Kazan,10,40,60
-Current season,Australia,A-League,Melbourne Victory,10,40,60
-Current season,England,Championship,Sheffield Utd,18,39,61
-Current season,England,League One,Rotherham,16,38,63
-Current season,England,League One,Lincoln,16,38,63
-Current season,Germany,2. Bundesliga,Schalke,13,38,62
-Current season,Spain,LaLiga,Oviedo,13,38,62
-Current season,Spain,LaLiga,Levante,13,38,62
-Current season,Spain,LaLiga,Alaves,13,38,62
-Current season,Germany,Bundesliga,Freiburg,13,38,62
-Current season,France,Ligue 2,Annecy,13,38,62
-Current season,France,Ligue 2,St Etienne,13,38,62
-Current season,Belgium,Jupiler Pro League,Anderlecht,13,38,62
-Current season,Belgium,Jupiler Pro League,Cercle Brugge KSV,13,38,62
-Current season,England,Premier League,Wolves,14,36,64
-Current season,Spain,LaLiga2,Huesca,14,36,64
-Current season,Italy,Serie A,Cremonese,14,36,64
-Current season,Italy,Serie B,Modena,14,36,64
-Current season,Italy,Serie B,Mantova,14,36,64
-Current season,Portugal,Liga Portugal,Casa Pia,11,36,64
-Current season,Turkey,Super Lig,Galatasaray,11,36,64
-Current season,Greece,Super League,Panathinaikos,11,36,64
-Current season,Greece,Super League,Atromitos,11,36,64
-Current season,England,League One,Northampton,17,35,65
-Current season,England,Championship,Blackburn,17,35,65
-Current season,England,League Two,Crawley,18,33,67
-Current season,England,Premier League,Sunderland,15,33,67
-Current season,France,Ligue 1,Lorient,12,33,67
-Current season,France,Ligue 2,Red Star,12,33,67
-Current season,Portugal,Liga Portugal,Tondela,12,33,67
-Current season,Turkey,Super Lig,Goztepe,12,33,67
-Current season,Croatia,HNL,Din. Zagreb,12,33,67
-Current season,Croatia,HNL,Hajduk Split,12,33,67
-Current season,Saudi Arabia,Saudi Professional League,Al Shabab,12,33,67
-Current season,Greece,Super League,Asteras Tripolis,12,33,67
-Current season,England,League Two,Oldham,16,31,69
-Current season,Spain,LaLiga,Rayo Vallecano,13,31,69
-Current season,Spain,LaLiga,Getafe,13,31,69
-Current season,Italy,Serie A,Inter,13,31,69
-Current season,Italy,Serie A,Parma,13,31,69
-Current season,Italy,Serie A,Como,13,31,69
-Current season,Italy,Serie A,AS Roma,13,31,69
-Current season,Italy,Serie A,Lecce,13,31,69
-Current season,Italy,Serie A,Torino,13,31,69
-Current season,Russia,Premier League,Pari NN,10,30,70
-Current season,Austria,Bundesliga,BW Linz,10,30,70
-Current season,Spain,LaLiga,Osasuna,14,29,71
-Current season,England,Championship,Stoke,18,28,72
-Current season,France,Ligue 1,Le Havre,11,27,73
-Current season,Portugal,Liga Portugal,Vitoria Guimaraes,11,27,73
-Current season,Scotland,Premiership,Dundee FC,15,27,73
-Current season,Australia,A-League,Sydney FC,11,27,73
-Current season,England,League One,Port Vale,16,25,75
-Current season,France,Ligue 1,Lille,12,25,75
-Current season,France,Ligue 1,Angers,12,25,75
-Current season,France,Ligue 2,Montpellier,12,25,75
-Current season,Portugal,Liga Portugal,Famalicao,12,25,75
-Current season,Portugal,Liga Portugal,FC Porto,12,25,75
-Current season,Turkey,Super Lig,Antalyaspor,12,25,75
-Current season,Greece,Super League,Panetolikos,12,25,75
-Current season,Belgium,Jupiler Pro League,Antwerp,13,23,77
-Current season,Scotland,Premiership,Falkirk,14,21,79
-Current season,Russia,Premier League,Baltika,10,20,80
-Current season,Austria,Bundesliga,Altach,10,20,80
-Current season,Denmark,Superliga,Brondby,11,18,82
-Current season,France,Ligue 2,Bastia,12,17,83
-Current season,Saudi Arabia,Saudi Professional League,Al Ahli SC,12,17,83
-Current season,Italy,Serie A,Lazio,14,14,86
-Current season,Scotland,Premiership,Aberdeen,15,13,87
-Current season,Belgium,Jupiler Pro League,St. Liege,13,8,92
+"Period","Country","League","Team","Matches Played","BTTS YES %","BTTS NO %"
+"Current season","Netherlands","Eredivisie","Zwolle","13","100","0"
+"Current season","Europe","Champions League","Kairat Almaty","4","100","0"
+"Current season","Europe","Champions League","Sporting CP","4","100","0"
+"Current season","Europe","Champions League","Bayern Munich","5","100","0"
+"Current season","Europe","Champions League","Chelsea","4","100","0"
+"Current season","Europe","Champions League","Bodo/Glimt","5","100","0"
+"Current season","Argentina","Liga Profesional","Atl. Tucuman","4","100","0"
+"Current season","Brazil","Serie A Betano","Palmeiras","2","100","0"
+"Current season","Brazil","Serie A Betano","Coritiba","2","100","0"
+"Current season","Brazil","Serie A Betano","Mirassol","1","100","0"
+"Current season","Brazil","Serie A Betano","Flamengo RJ","2","100","0"
+"Current season","Brazil","Serie A Betano","Vasco","2","100","0"
+"Current season","Brazil","Serie A Betano","Internacional","2","100","0"
+"Current season","Brazil","Serie A Betano","Santos","2","100","0"
+"Current season","Brazil","Serie A Betano","Chapecoense-SC","1","100","0"
+"Current season","Brazil","Serie A Betano","Fluminense","2","100","0"
+"Current season","Brazil","Serie A Betano","Vitoria","1","100","0"
+"Current season","Europe","Conference League","Rayo Vallecano","3","100","0"
+"Current season","Europe","Conference League","Legia","3","100","0"
+"Current season","Europe","Conference League","SK Rapid","3","100","0"
+"Current season","Europe","Conference League","Shamrock Rovers","3","100","0"
+"Current season","USA","MLS","Austin FC","1","100","0"
+"Current season","USA","MLS","Los Angeles Galaxy","1","100","0"
+"Current season","USA","MLS","New York City","2","100","0"
+"Current season","USA","MLS","Minnesota United","2","100","0"
+"Current season","USA","MLS","Vancouver Whitecaps","1","100","0"
+"Current season","USA","MLS","New York Red Bulls","1","100","0"
+"Current season","USA","MLS","Columbus Crew","2","100","0"
+"Current season","Netherlands","Eredivisie","Nijmegen","13","92","8"
+"Current season","Netherlands","Eredivisie","Ajax","13","92","8"
+"Current season","Saudi Arabia","Saudi Professional League","Al Khaleej","13","92","8"
+"Current season","Denmark","Superliga","Aarhus","11","91","9"
+"Current season","Russia","Premier League","Lokomotiv Moscow","10","90","10"
+"Current season","England","Championship","Southampton","18","89","11"
+"Current season","Australia","A-League","Adelaide United","9","89","11"
+"Current season","England","Premier League","Manchester Utd","15","87","13"
+"Current season","Belgium","Jupiler Pro League","Genk","14","86","14"
+"Current season","Spain","LaLiga","Elche","13","85","15"
+"Current season","Germany","Bundesliga","Eintracht Frankfurt","13","85","15"
+"Current season","England","Championship","Leicester","19","84","16"
+"Current season","Turkey","Super Lig","Alanyaspor","12","83","17"
+"Current season","Greece","Super League","Kifisia","12","83","17"
+"Current season","Spain","LaLiga2","Cordoba","15","80","20"
+"Current season","Europe","Champions League","Monaco","5","80","20"
+"Current season","Europe","Champions League","PSG","5","80","20"
+"Current season","Europe","Champions League","Barcelona","5","80","20"
+"Current season","Europe","Champions League","Newcastle","5","80","20"
+"Current season","Europe","Champions League","Dortmund","5","80","20"
+"Current season","Europe","Champions League","Atl. Madrid","5","80","20"
+"Current season","Argentina","Liga Profesional","Union de Santa Fe","5","80","20"
+"Current season","Colombia","Primera A","Junior","5","80","20"
+"Current season","Colombia","Primera A","Cucuta","5","80","20"
+"Current season","Colombia","Primera A","Once Caldas","5","80","20"
+"Current season","Colombia","Primera A","Fortaleza","5","80","20"
+"Current season","Europe","Europa League","Celtic","5","80","20"
+"Current season","Europe","Europa League","PAOK","5","80","20"
+"Current season","Europe","Europa League","Panathinaikos","5","80","20"
+"Current season","Europe","Europa League","Celta Vigo","5","80","20"
+"Current season","Spain","LaLiga","Real Sociedad","14","79","21"
+"Current season","Spain","LaLiga2","Racing Santander","14","79","21"
+"Current season","Belgium","Jupiler Pro League","Waregem","14","79","21"
+"Current season","England","League Two","Barrow","18","78","22"
+"Current season","Russia","Premier League","Spartak Moscow","9","78","22"
+"Current season","Australia","A-League","Wellington Phoenix","9","78","22"
+"Current season","Germany","2. Bundesliga","SG Dynamo Dresden","13","77","23"
+"Current season","Italy","Serie A","Genoa","13","77","23"
+"Current season","Germany","Bundesliga","Stuttgart","13","77","23"
+"Current season","Netherlands","Eredivisie","Utrecht","13","77","23"
+"Current season","Netherlands","Eredivisie","Twente","13","77","23"
+"Current season","Netherlands","Eredivisie","Sittard","13","77","23"
+"Current season","Saudi Arabia","Saudi Professional League","Al Ittihad","13","77","23"
+"Current season","France","Ligue 2","Le Mans","12","75","25"
+"Current season","Turkey","Super Lig","Rizespor","12","75","25"
+"Current season","Turkey","Super Lig","Karagumruk","12","75","25"
+"Current season","Turkey","Super Lig","Konyaspor","12","75","25"
+"Current season","Europe","Champions League","Manchester City","4","75","25"
+"Current season","Europe","Champions League","PSV","4","75","25"
+"Current season","Europe","Champions League","Marseille","4","75","25"
+"Current season","Europe","Champions League","Ajax","4","75","25"
+"Current season","Europe","Champions League","Eintracht Frankfurt","4","75","25"
+"Current season","Argentina","Liga Profesional","Tigre","4","75","25"
+"Current season","Argentina","Liga Profesional","Independiente","4","75","25"
+"Current season","Argentina","Liga Profesional","Rosario Central","4","75","25"
+"Current season","Argentina","Liga Profesional","Lanus","4","75","25"
+"Current season","Colombia","Primera A","Millonarios","4","75","25"
+"Current season","Colombia","Primera A","Pereira","4","75","25"
+"Current season","Colombia","Primera A","Bucaramanga","4","75","25"
+"Current season","Europe","Europa League","G.A. Eagles","4","75","25"
+"Current season","Europe","Europa League","Midtjylland","4","75","25"
+"Current season","Europe","Europa League","Rangers","4","75","25"
+"Current season","Europe","Europa League","Basel","4","75","25"
+"Current season","Europe","Conference League","Omonia","4","75","25"
+"Current season","Europe","Conference League","Lech Poznan","4","75","25"
+"Current season","Europe","Conference League","Sigma Olomouc","4","75","25"
+"Current season","Saudi Arabia","Saudi Professional League","Al Qadsiah","12","75","25"
+"Current season","England","Premier League","Burnley","15","73","27"
+"Current season","England","Premier League","Chelsea","15","73","27"
+"Current season","Scotland","Premiership","Kilmarnock","15","73","27"
+"Current season","Denmark","Superliga","FC Copenhagen","11","73","27"
+"Current season","Denmark","Superliga","Silkeborg","11","73","27"
+"Current season","Denmark","Superliga","Odense","11","73","27"
+"Current season","Denmark","Superliga","Fredericia","11","73","27"
+"Current season","Austria","Bundesliga","Wolfsberger AC","11","73","27"
+"Current season","Austria","Bundesliga","Austria Vienna","11","73","27"
+"Current season","Austria","Bundesliga","Salzburg","11","73","27"
+"Current season","England","League One","Wigan","18","72","28"
+"Current season","England","League One","Reading","18","72","28"
+"Current season","England","League Two","Tranmere","18","72","28"
+"Current season","England","Premier League","Bournemouth","14","71","29"
+"Current season","Spain","LaLiga","Girona","14","71","29"
+"Current season","Spain","LaLiga","Betis","14","71","29"
+"Current season","Spain","LaLiga","Barcelona","14","71","29"
+"Current season","Spain","LaLiga2","Almeria","14","71","29"
+"Current season","Italy","Serie B","Carrarese","14","71","29"
+"Current season","Italy","Serie B","Venezia","14","71","29"
+"Current season","Italy","Serie B","Pescara","14","71","29"
+"Current season","England","Championship","Ipswich","17","71","29"
+"Current season","Belgium","Jupiler Pro League","RAAL La Louviere","14","71","29"
+"Current season","Russia","Premier League","Sochi","10","70","30"
+"Current season","Russia","Premier League","Dynamo Moscow","10","70","30"
+"Current season","Australia","A-League","Newcastle Jets","10","70","30"
+"Current season","England","League One","Barnsley","16","69","31"
+"Current season","Germany","2. Bundesliga","Greuther Furth","13","69","31"
+"Current season","Germany","2. Bundesliga","Holstein Kiel","13","69","31"
+"Current season","Germany","2. Bundesliga","Hannover","13","69","31"
+"Current season","Germany","Bundesliga","Hoffenheim","13","69","31"
+"Current season","Germany","Bundesliga","Dortmund","13","69","31"
+"Current season","France","Ligue 1","Strasbourg","13","69","31"
+"Current season","France","Ligue 1","Paris FC","13","69","31"
+"Current season","France","Ligue 2","Rodez","13","69","31"
+"Current season","France","Ligue 2","Guingamp","13","69","31"
+"Current season","Netherlands","Eredivisie","PSV","13","69","31"
+"Current season","Portugal","Liga Portugal","Sporting CP","13","69","31"
+"Current season","Turkey","Super Lig","Trabzonspor","13","69","31"
+"Current season","Turkey","Super Lig","Samsunspor","13","69","31"
+"Current season","Croatia","HNL","Slaven Belupo","13","69","31"
+"Current season","England","League Two","Chesterfield","18","67","33"
+"Current season","England","League Two","MK Dons","18","67","33"
+"Current season","Germany","2. Bundesliga","Bochum","12","67","33"
+"Current season","Germany","2. Bundesliga","Nurnberg","12","67","33"
+"Current season","Germany","2. Bundesliga","Darmstadt","12","67","33"
+"Current season","Germany","2. Bundesliga","Preussen Munster","12","67","33"
+"Current season","Germany","2. Bundesliga","Braunschweig","12","67","33"
+"Current season","Spain","LaLiga2","Andorra","15","67","33"
+"Current season","Italy","Serie B","Sampdoria","15","67","33"
+"Current season","Italy","Serie B","Cesena","15","67","33"
+"Current season","Germany","Bundesliga","Augsburg","12","67","33"
+"Current season","Germany","Bundesliga","Mainz","12","67","33"
+"Current season","Germany","Bundesliga","Wolfsburg","12","67","33"
+"Current season","France","Ligue 1","Nice","12","67","33"
+"Current season","France","Ligue 2","Dunkerque","12","67","33"
+"Current season","England","Championship","Watford","18","67","33"
+"Current season","England","Championship","Norwich","18","67","33"
+"Current season","Netherlands","Eredivisie","Excelsior","12","67","33"
+"Current season","Portugal","Liga Portugal","Alverca","12","67","33"
+"Current season","Scotland","Premiership","St. Mirren","15","67","33"
+"Current season","Argentina","Liga Profesional","Boca Juniors","3","67","33"
+"Current season","Argentina","Liga Profesional","Ind. Rivadavia","3","67","33"
+"Current season","Argentina","Liga Profesional","Instituto","3","67","33"
+"Current season","Colombia","Primera A","Inter Bogotá","6","67","33"
+"Current season","Croatia","HNL","Osijek","12","67","33"
+"Current season","Croatia","HNL","Lok. Zagreb","12","67","33"
+"Current season","Europe","Conference League","Strasbourg","3","67","33"
+"Current season","Europe","Conference League","Lincoln Red Imps","3","67","33"
+"Current season","Europe","Conference League","Shakhtar Donetsk","3","67","33"
+"Current season","Europe","Conference League","AEK Athens","3","67","33"
+"Current season","Saudi Arabia","Saudi Professional League","Al Hilal","12","67","33"
+"Current season","Saudi Arabia","Saudi Professional League","Damac","12","67","33"
+"Current season","Saudi Arabia","Saudi Professional League","Al Fateh","12","67","33"
+"Current season","USA","MLS","Inter Miami","3","67","33"
+"Current season","Greece","Super League","Levadiakos","12","67","33"
+"Current season","England","League One","Bradford City","17","65","35"
+"Current season","England","League Two","Notts Co","17","65","35"
+"Current season","England","Premier League","Fulham","14","64","36"
+"Current season","England","Premier League","Leeds","14","64","36"
+"Current season","Italy","Serie A","Bologna","14","64","36"
+"Current season","Italy","Serie A","Cagliari","14","64","36"
+"Current season","Italy","Serie A","Pisa","14","64","36"
+"Current season","Italy","Serie A","Udinese","14","64","36"
+"Current season","Italy","Serie B","Catanzaro","14","64","36"
+"Current season","Scotland","Premiership","Dundee Utd","14","64","36"
+"Current season","Scotland","Premiership","Rangers","14","64","36"
+"Current season","Australia","A-League","Brisbane Roar","11","64","36"
+"Current season","Belgium","Jupiler Pro League","Dender","14","64","36"
+"Current season","Belgium","Jupiler Pro League","Gent","14","64","36"
+"Current season","Belgium","Jupiler Pro League","St. Truiden","14","64","36"
+"Current season","Denmark","Superliga","Vejle","11","64","36"
+"Current season","Austria","Bundesliga","SK Rapid","11","64","36"
+"Current season","Austria","Bundesliga","Tirol","11","64","36"
+"Current season","Austria","Bundesliga","Ried","11","64","36"
+"Current season","England","Championship","Middlesbrough","19","63","37"
+"Current season","England","Championship","Oxford Utd","19","63","37"
+"Current season","England","Championship","Coventry","19","63","37"
+"Current season","Germany","2. Bundesliga","Elversberg","13","62","38"
+"Current season","Spain","LaLiga","Espanyol","13","62","38"
+"Current season","Spain","LaLiga","Villarreal","13","62","38"
+"Current season","Spain","LaLiga","Sevilla","13","62","38"
+"Current season","Spain","LaLiga","Celta Vigo","13","62","38"
+"Current season","Germany","Bundesliga","Bayer Leverkusen","13","62","38"
+"Current season","France","Ligue 2","Grenoble","13","62","38"
+"Current season","France","Ligue 2","Nancy","13","62","38"
+"Current season","Netherlands","Eredivisie","Heerenveen","13","62","38"
+"Current season","Netherlands","Eredivisie","G.A. Eagles","13","62","38"
+"Current season","Portugal","Liga Portugal","Braga","13","62","38"
+"Current season","Portugal","Liga Portugal","Nacional","13","62","38"
+"Current season","Turkey","Super Lig","Fenerbahce","13","62","38"
+"Current season","Turkey","Super Lig","Kasimpasa","13","62","38"
+"Current season","Croatia","HNL","Vukovar 1991","13","62","38"
+"Current season","Croatia","HNL","Varazdin","13","62","38"
+"Current season","Croatia","HNL","Istra 1961","13","62","38"
+"Current season","Saudi Arabia","Saudi Professional League","Al Riyadh","13","62","38"
+"Current season","Saudi Arabia","Saudi Professional League","Al Hazem","13","62","38"
+"Current season","Saudi Arabia","Saudi Professional League","Neom SC","13","62","38"
+"Current season","Saudi Arabia","Saudi Professional League","Al Fayha","13","62","38"
+"Current season","England","League One","Burton","18","61","39"
+"Current season","England","League One","Wycombe","18","61","39"
+"Current season","England","League One","AFC Wimbledon","18","61","39"
+"Current season","England","League One","Huddersfield","18","61","39"
+"Current season","England","League One","Bolton","18","61","39"
+"Current season","England","League Two","Shrewsbury","18","61","39"
+"Current season","England","League Two","Cheltenham","18","61","39"
+"Current season","England","League Two","Crewe","18","61","39"
+"Current season","England","League Two","Swindon","18","61","39"
+"Current season","England","Championship","Hull","18","61","39"
+"Current season","England","Championship","Derby","18","61","39"
+"Current season","England","Premier League","Liverpool","15","60","40"
+"Current season","Spain","LaLiga2","Dep. La Coruna","15","60","40"
+"Current season","Spain","LaLiga2","Mirandes","15","60","40"
+"Current season","Spain","LaLiga2","Leganes","15","60","40"
+"Current season","Italy","Serie B","Frosinone","15","60","40"
+"Current season","Europe","Champions League","Tottenham","5","60","40"
+"Current season","Europe","Champions League","Club Brugge KV","5","60","40"
+"Current season","Europe","Champions League","Juventus","5","60","40"
+"Current season","Europe","Champions League","Qarabag","5","60","40"
+"Current season","Russia","Premier League","Akhmat Grozny","10","60","40"
+"Current season","Scotland","Premiership","Hibernian","15","60","40"
+"Current season","Scotland","Premiership","Celtic","15","60","40"
+"Current season","Australia","A-League","Auckland FC","10","60","40"
+"Current season","Australia","A-League","Perth Glory","10","60","40"
+"Current season","Argentina","Liga Profesional","Belgrano","5","60","40"
+"Current season","Argentina","Liga Profesional","Velez Sarsfield","5","60","40"
+"Current season","Colombia","Primera A","Ind. Medellin","5","60","40"
+"Current season","Colombia","Primera A","Santa Fe","5","60","40"
+"Current season","Europe","Europa League","Plzen","5","60","40"
+"Current season","Europe","Europa League","Ferencvaros","5","60","40"
+"Current season","Europe","Europa League","Ludogorets","5","60","40"
+"Current season","Europe","Europa League","Din. Zagreb","5","60","40"
+"Current season","Europe","Europa League","Fenerbahce","5","60","40"
+"Current season","England","Championship","Preston","17","59","41"
+"Current season","Germany","2. Bundesliga","Dusseldorf","12","58","42"
+"Current season","Germany","Bundesliga","Bayern Munich","12","58","42"
+"Current season","Germany","Bundesliga","FC Koln","12","58","42"
+"Current season","Germany","Bundesliga","Heidenheim","12","58","42"
+"Current season","France","Ligue 1","Lens","12","58","42"
+"Current season","France","Ligue 1","Monaco","12","58","42"
+"Current season","France","Ligue 1","Brest","12","58","42"
+"Current season","France","Ligue 2","Amiens","12","58","42"
+"Current season","Croatia","HNL","Rijeka","12","58","42"
+"Current season","Croatia","HNL","Gorica","12","58","42"
+"Current season","Saudi Arabia","Saudi Professional League","Al Taawon","12","58","42"
+"Current season","Saudi Arabia","Saudi Professional League","Al Ettifaq","12","58","42"
+"Current season","Greece","Super League","OFI Crete","12","58","42"
+"Current season","England","Premier League","Aston Villa","14","57","43"
+"Current season","England","Premier League","Brighton","14","57","43"
+"Current season","England","Premier League","Newcastle","14","57","43"
+"Current season","Spain","LaLiga","Real Madrid","14","57","43"
+"Current season","Spain","LaLiga","Mallorca","14","57","43"
+"Current season","Italy","Serie A","Sassuolo","14","57","43"
+"Current season","Italy","Serie A","Fiorentina","14","57","43"
+"Current season","Italy","Serie B","Palermo","14","57","43"
+"Current season","France","Ligue 2","Reims","14","57","43"
+"Current season","Netherlands","Eredivisie","AZ Alkmaar","14","57","43"
+"Current season","Scotland","Premiership","Livingston","14","57","43"
+"Current season","Scotland","Premiership","Motherwell","14","57","43"
+"Current season","Belgium","Jupiler Pro League","KV Mechelen","14","57","43"
+"Current season","Belgium","Jupiler Pro League","Charleroi","14","57","43"
+"Current season","Belgium","Jupiler Pro League","Royale Union SG","14","57","43"
+"Current season","Belgium","Jupiler Pro League","Club Brugge KV","14","57","43"
+"Current season","England","League One","Leyton Orient","18","56","44"
+"Current season","England","League One","Stevenage","18","56","44"
+"Current season","England","League One","Cardiff","18","56","44"
+"Current season","England","League One","Mansfield","16","56","44"
+"Current season","England","League Two","Colchester","18","56","44"
+"Current season","England","League Two","Harrogate","18","56","44"
+"Current season","England","League Two","Salford","18","56","44"
+"Current season","England","Championship","QPR","18","56","44"
+"Current season","England","Championship","Millwall","18","56","44"
+"Current season","England","Championship","Portsmouth","18","56","44"
+"Current season","Russia","Premier League","Orenburg","9","56","44"
+"Current season","Australia","A-League","Central Coast Mariners","9","56","44"
+"Current season","France","Ligue 2","Pau FC","11","55","45"
+"Current season","Denmark","Superliga","Sonderjyske","11","55","45"
+"Current season","Denmark","Superliga","Randers FC","11","55","45"
+"Current season","Denmark","Superliga","Nordsjaelland","11","55","45"
+"Current season","Austria","Bundesliga","Hartberg","11","55","45"
+"Current season","Austria","Bundesliga","LASK","11","55","45"
+"Current season","Germany","2. Bundesliga","Arminia Bielefeld","13","54","46"
+"Current season","Spain","LaLiga","Ath Bilbao","13","54","46"
+"Current season","Spain","LaLiga","Valencia","13","54","46"
+"Current season","Italy","Serie A","Atalanta","13","54","46"
+"Current season","France","Ligue 1","Lyon","13","54","46"
+"Current season","France","Ligue 1","PSG","13","54","46"
+"Current season","France","Ligue 1","Metz","13","54","46"
+"Current season","Netherlands","Eredivisie","Telstar","13","54","46"
+"Current season","Netherlands","Eredivisie","Heracles","13","54","46"
+"Current season","Netherlands","Eredivisie","Groningen","13","54","46"
+"Current season","Portugal","Liga Portugal","Gil Vicente","13","54","46"
+"Current season","Portugal","Liga Portugal","Arouca","13","54","46"
+"Current season","Portugal","Liga Portugal","Rio Ave","13","54","46"
+"Current season","Turkey","Super Lig","Kayserispor","13","54","46"
+"Current season","Turkey","Super Lig","Genclerbirligi","13","54","46"
+"Current season","Saudi Arabia","Saudi Professional League","Al Najma","13","54","46"
+"Current season","England","League One","Stockport County","17","53","47"
+"Current season","England","Premier League","Crystal Palace","15","53","47"
+"Current season","England","Premier League","West Ham","15","53","47"
+"Current season","Spain","LaLiga2","Zaragoza","15","53","47"
+"Current season","Italy","Serie B","Reggiana","15","53","47"
+"Current season","Italy","Serie B","Juve Stabia","15","53","47"
+"Current season","Italy","Serie B","Monza","15","53","47"
+"Current season","Italy","Serie B","Sudtirol","15","53","47"
+"Current season","England","Championship","West Brom","19","53","47"
+"Current season","England","Championship","Wrexham","17","53","47"
+"Current season","England","League One","Peterborough","18","50","50"
+"Current season","England","League Two","Fleetwood","18","50","50"
+"Current season","England","League Two","Bromley","18","50","50"
+"Current season","England","League Two","Newport","18","50","50"
+"Current season","England","League Two","Bristol Rovers","18","50","50"
+"Current season","England","League Two","Walsall","18","50","50"
+"Current season","Germany","2. Bundesliga","Paderborn","12","50","50"
+"Current season","Germany","2. Bundesliga","Hertha Berlin","12","50","50"
+"Current season","Germany","2. Bundesliga","Kaiserslautern","12","50","50"
+"Current season","England","Premier League","Manchester City","14","50","50"
+"Current season","England","Premier League","Tottenham","14","50","50"
+"Current season","England","Premier League","Arsenal","16","50","50"
+"Current season","Spain","LaLiga2","Cultural Leonesa","14","50","50"
+"Current season","Spain","LaLiga2","Cadiz CF","14","50","50"
+"Current season","Spain","LaLiga2","Gijon","14","50","50"
+"Current season","Spain","LaLiga2","Real Sociedad B","14","50","50"
+"Current season","Spain","LaLiga2","Malaga","14","50","50"
+"Current season","Spain","LaLiga2","Las Palmas","14","50","50"
+"Current season","Spain","LaLiga2","Ceuta","14","50","50"
+"Current season","Spain","LaLiga2","Granada CF","14","50","50"
+"Current season","Italy","Serie A","Juventus","14","50","50"
+"Current season","Italy","Serie A","AC Milan","14","50","50"
+"Current season","Italy","Serie B","Spezia","14","50","50"
+"Current season","Italy","Serie B","Avellino","14","50","50"
+"Current season","Italy","Serie B","Empoli","14","50","50"
+"Current season","Germany","Bundesliga","Hamburger SV","12","50","50"
+"Current season","Germany","Bundesliga","RB Leipzig","12","50","50"
+"Current season","Germany","Bundesliga","Union Berlin","12","50","50"
+"Current season","France","Ligue 1","Nantes","12","50","50"
+"Current season","France","Ligue 2","Clermont","14","50","50"
+"Current season","France","Ligue 2","Boulogne","12","50","50"
+"Current season","England","Championship","Charlton","18","50","50"
+"Current season","England","Championship","Sheffield Wed","18","50","50"
+"Current season","Portugal","Liga Portugal","Santa Clara","12","50","50"
+"Current season","Portugal","Liga Portugal","Estrela","12","50","50"
+"Current season","Turkey","Super Lig","Gaziantep","12","50","50"
+"Current season","Turkey","Super Lig","Basaksehir","12","50","50"
+"Current season","Turkey","Super Lig","Besiktas","12","50","50"
+"Current season","Europe","Champions League","FC Copenhagen","4","50","50"
+"Current season","Europe","Champions League","Royale Union SG","4","50","50"
+"Current season","Europe","Champions League","Napoli","4","50","50"
+"Current season","Europe","Champions League","Ath Bilbao","4","50","50"
+"Current season","Russia","Premier League","Zenit","10","50","50"
+"Current season","Australia","A-League","Melbourne City","10","50","50"
+"Current season","Australia","A-League","WS Wanderers","10","50","50"
+"Current season","Argentina","Liga Profesional","Huracan","4","50","50"
+"Current season","Argentina","Liga Profesional","Gimnasia Mendoza","4","50","50"
+"Current season","Argentina","Liga Profesional","Newells Old Boys","4","50","50"
+"Current season","Argentina","Liga Profesional","Argentinos Jrs","2","50","50"
+"Current season","Argentina","Liga Profesional","Talleres Cordoba","4","50","50"
+"Current season","Colombia","Primera A","Llaneros","4","50","50"
+"Current season","Colombia","Primera A","Aguilas","4","50","50"
+"Current season","Colombia","Primera A","Dep. Pasto","4","50","50"
+"Current season","Colombia","Primera A","Atl. Nacional","4","50","50"
+"Current season","Colombia","Primera A","Dep. Cali","4","50","50"
+"Current season","Belgium","Jupiler Pro League","Leuven","14","50","50"
+"Current season","Brazil","Serie A Betano","Bahia","2","50","50"
+"Current season","Brazil","Serie A Betano","Botafogo RJ","2","50","50"
+"Current season","Brazil","Serie A Betano","Athletico-PR","2","50","50"
+"Current season","Brazil","Serie A Betano","Corinthians","2","50","50"
+"Current season","Brazil","Serie A Betano","Cruzeiro","2","50","50"
+"Current season","Brazil","Serie A Betano","Gremio","2","50","50"
+"Current season","Brazil","Serie A Betano","Remo","2","50","50"
+"Current season","Brazil","Serie A Betano","Sao Paulo","2","50","50"
+"Current season","Brazil","Serie A Betano","Atletico-MG","2","50","50"
+"Current season","Europe","Europa League","Young Boys","4","50","50"
+"Current season","Europe","Europa League","FCSB","4","50","50"
+"Current season","Europe","Europa League","FC Porto","4","50","50"
+"Current season","Europe","Europa League","Aston Villa","4","50","50"
+"Current season","Europe","Europa League","Feyenoord","4","50","50"
+"Current season","Europe","Europa League","Malmo FF","4","50","50"
+"Current season","Europe","Europa League","Freiburg","4","50","50"
+"Current season","Europe","Europa League","Nice","4","50","50"
+"Current season","Europe","Europa League","AS Roma","4","50","50"
+"Current season","Europe","Europa League","Utrecht","4","50","50"
+"Current season","Europe","Europa League","Sturm Graz","4","50","50"
+"Current season","Europe","Europa League","Salzburg","4","50","50"
+"Current season","Europe","Conference League","Noah","4","50","50"
+"Current season","Europe","Conference League","Crystal Palace","4","50","50"
+"Current season","Europe","Conference League","Drita","4","50","50"
+"Current season","Europe","Conference League","Jagiellonia","4","50","50"
+"Current season","Europe","Conference League","Celje","4","50","50"
+"Current season","Saudi Arabia","Saudi Professional League","Al Okhdood","12","50","50"
+"Current season","Saudi Arabia","Saudi Professional League","Al Kholood","12","50","50"
+"Current season","USA","MLS","Chicago Fire","2","50","50"
+"Current season","USA","MLS","Charlotte","2","50","50"
+"Current season","USA","MLS","Seattle Sounders","2","50","50"
+"Current season","USA","MLS","New England Revolution","2","50","50"
+"Current season","USA","MLS","Real Salt Lake","2","50","50"
+"Current season","Greece","Super League","Aris","12","50","50"
+"Current season","Greece","Super League","PAOK","12","50","50"
+"Current season","England","League Two","Grimsby","17","47","53"
+"Current season","England","Premier League","Brentford","15","47","53"
+"Current season","England","Premier League","Nottingham","15","47","53"
+"Current season","Spain","LaLiga2","Albacete","15","47","53"
+"Current season","Spain","LaLiga2","Valladolid","15","47","53"
+"Current season","Spain","LaLiga2","Castellon","15","47","53"
+"Current season","Italy","Serie A","Verona","15","47","53"
+"Current season","Italy","Serie B","Bari","15","47","53"
+"Current season","Germany","2. Bundesliga","Karlsruher SC","13","46","54"
+"Current season","Germany","2. Bundesliga","Magdeburg","13","46","54"
+"Current season","Spain","LaLiga","Atl. Madrid","13","46","54"
+"Current season","Germany","Bundesliga","Werder Bremen","13","46","54"
+"Current season","Germany","Bundesliga","B. Monchengladbach","13","46","54"
+"Current season","Germany","Bundesliga","St. Pauli","13","46","54"
+"Current season","Netherlands","Eredivisie","Feyenoord","13","46","54"
+"Current season","Netherlands","Eredivisie","Sparta Rotterdam","13","46","54"
+"Current season","Portugal","Liga Portugal","Moreirense","13","46","54"
+"Current season","Saudi Arabia","Saudi Professional League","Al Nassr","13","46","54"
+"Current season","France","Ligue 2","Troyes","11","45","55"
+"Current season","Russia","Premier League","Krylya Sovetov","11","45","55"
+"Current season","Russia","Premier League","Akron Togliatti","11","45","55"
+"Current season","Australia","A-League","Melbourne Victory","11","45","55"
+"Current season","Denmark","Superliga","Viborg","11","45","55"
+"Current season","Denmark","Superliga","Midtjylland","11","45","55"
+"Current season","Austria","Bundesliga","Sturm Graz","11","45","55"
+"Current season","Austria","Bundesliga","Grazer AK","11","45","55"
+"Current season","England","League One","Exeter","18","44","56"
+"Current season","England","League One","Luton","18","44","56"
+"Current season","England","League One","Doncaster","18","44","56"
+"Current season","England","League Two","Cambridge Utd","18","44","56"
+"Current season","England","Championship","Swansea","18","44","56"
+"Current season","England","Championship","Bristol City","18","44","56"
+"Current season","Russia","Premier League","Krasnodar","9","44","56"
+"Current season","Australia","A-League","Macarthur FC","9","44","56"
+"Current season","England","Premier League","Everton","14","43","57"
+"Current season","Spain","LaLiga","Alaves","14","43","57"
+"Current season","Spain","LaLiga","Oviedo","14","43","57"
+"Current season","Spain","LaLiga2","Eibar","14","43","57"
+"Current season","Spain","LaLiga2","Burgos CF","14","43","57"
+"Current season","Scotland","Premiership","Hearts","14","43","57"
+"Current season","Belgium","Jupiler Pro League","Anderlecht","14","43","57"
+"Current season","Belgium","Jupiler Pro League","Westerlo","14","43","57"
+"Current season","Belgium","Jupiler Pro League","Cercle Brugge KSV","14","43","57"
+"Current season","France","Ligue 1","Marseille","12","42","58"
+"Current season","France","Ligue 1","Toulouse","12","42","58"
+"Current season","France","Ligue 1","Auxerre","12","42","58"
+"Current season","France","Ligue 2","Laval","12","42","58"
+"Current season","England","Championship","Birmingham","19","42","58"
+"Current season","Netherlands","Eredivisie","NAC Breda","12","42","58"
+"Current season","Portugal","Liga Portugal","Benfica","12","42","58"
+"Current season","Portugal","Liga Portugal","Estoril","12","42","58"
+"Current season","Portugal","Liga Portugal","AFS","12","42","58"
+"Current season","Turkey","Super Lig","Kocaelispor","12","42","58"
+"Current season","Turkey","Super Lig","Eyupspor","12","42","58"
+"Current season","Greece","Super League","Volos","12","42","58"
+"Current season","Greece","Super League","Panathinaikos","12","42","58"
+"Current season","Greece","Super League","Panserraikos","12","42","58"
+"Current season","Greece","Super League","Olympiacos Piraeus","12","42","58"
+"Current season","Greece","Super League","AEK Athens","12","42","58"
+"Current season","Greece","Super League","AEL Larissa","12","42","58"
+"Current season","England","League One","Blackpool","17","41","59"
+"Current season","England","League Two","Accrington","17","41","59"
+"Current season","England","League Two","Gillingham","17","41","59"
+"Current season","Italy","Serie A","Napoli","15","40","60"
+"Current season","Italy","Serie A","Cremonese","15","40","60"
+"Current season","Italy","Serie B","Padova","15","40","60"
+"Current season","Italy","Serie B","Entella","15","40","60"
+"Current season","Europe","Champions League","Real Madrid","5","40","60"
+"Current season","Europe","Champions League","Inter","5","40","60"
+"Current season","Europe","Champions League","Olympiacos Piraeus","5","40","60"
+"Current season","Russia","Premier League","Rubin Kazan","10","40","60"
+"Current season","Russia","Premier League","FK Rostov","10","40","60"
+"Current season","Russia","Premier League","CSKA Moscow","10","40","60"
+"Current season","Argentina","Liga Profesional","Racing Club","5","40","60"
+"Current season","Colombia","Primera A","Jaguares de Cordoba","5","40","60"
+"Current season","Colombia","Primera A","Chico","5","40","60"
+"Current season","Colombia","Primera A","America De Cali","5","40","60"
+"Current season","Colombia","Primera A","Deportes Tolima","5","40","60"
+"Current season","Europe","Europa League","Genk","5","40","60"
+"Current season","Europe","Europa League","Nottingham","5","40","60"
+"Current season","Europe","Europa League","Brann","5","40","60"
+"Current season","Europe","Europa League","Bologna","5","40","60"
+"Current season","England","League One","Plymouth","18","39","61"
+"Current season","England","League Two","Barnet","18","39","61"
+"Current season","England","Championship","Sheffield Utd","18","39","61"
+"Current season","Germany","2. Bundesliga","Schalke","13","38","62"
+"Current season","Spain","LaLiga","Levante","13","38","62"
+"Current season","Germany","Bundesliga","Freiburg","13","38","62"
+"Current season","France","Ligue 1","Rennes","13","38","62"
+"Current season","France","Ligue 1","Lorient","13","38","62"
+"Current season","France","Ligue 2","St Etienne","13","38","62"
+"Current season","Netherlands","Eredivisie","FC Volendam","13","38","62"
+"Current season","Turkey","Super Lig","Goztepe","13","38","62"
+"Current season","Croatia","HNL","Din. Zagreb","13","38","62"
+"Current season","Saudi Arabia","Saudi Professional League","Al Shabab","13","38","62"
+"Current season","England","Premier League","Wolves","14","36","64"
+"Current season","Spain","LaLiga","Rayo Vallecano","14","36","64"
+"Current season","Spain","LaLiga2","Huesca","14","36","64"
+"Current season","Italy","Serie A","Torino","14","36","64"
+"Current season","Italy","Serie A","Como","14","36","64"
+"Current season","Italy","Serie A","AS Roma","14","36","64"
+"Current season","Italy","Serie B","Mantova","14","36","64"
+"Current season","Italy","Serie B","Modena","14","36","64"
+"Current season","France","Ligue 2","Annecy","14","36","64"
+"Current season","Austria","Bundesliga","BW Linz","11","36","64"
+"Current season","England","League One","Rotherham","17","35","65"
+"Current season","England","League Two","Oldham","17","35","65"
+"Current season","England","Championship","Blackburn","17","35","65"
+"Current season","England","League One","Lincoln","18","33","67"
+"Current season","England","League One","Northampton","18","33","67"
+"Current season","England","League Two","Crawley","18","33","67"
+"Current season","England","Premier League","Sunderland","15","33","67"
+"Current season","Portugal","Liga Portugal","Tondela","12","33","67"
+"Current season","Portugal","Liga Portugal","Casa Pia","12","33","67"
+"Current season","Turkey","Super Lig","Galatasaray","12","33","67"
+"Current season","Argentina","Liga Profesional","Banfield","3","33","67"
+"Current season","Croatia","HNL","Hajduk Split","12","33","67"
+"Current season","Europe","Conference League","Mainz","3","33","67"
+"Current season","Europe","Conference League","Sparta Prague","3","33","67"
+"Current season","Europe","Conference League","Hacken","3","33","67"
+"Current season","Europe","Conference League","Hamrun","3","33","67"
+"Current season","Europe","Conference League","Slovan Bratislava","3","33","67"
+"Current season","Europe","Conference League","Breidablik","3","33","67"
+"Current season","Europe","Conference League","Rakow","3","33","67"
+"Current season","Europe","Conference League","Dyn. Kyiv","3","33","67"
+"Current season","Europe","Conference League","Univ. Craiova","3","33","67"
+"Current season","Europe","Conference League","AEK Larnaca","3","33","67"
+"Current season","USA","MLS","Toronto FC","3","33","67"
+"Current season","Greece","Super League","Atromitos","12","33","67"
+"Current season","Greece","Super League","Asteras Tripolis","12","33","67"
+"Current season","Spain","LaLiga","Getafe","13","31","69"
+"Current season","Italy","Serie A","Lecce","13","31","69"
+"Current season","France","Ligue 2","Red Star","13","31","69"
+"Current season","Portugal","Liga Portugal","FC Porto","13","31","69"
+"Current season","Russia","Premier League","Pari NN","10","30","70"
+"Current season","Spain","LaLiga","Osasuna","14","29","71"
+"Current season","Italy","Serie A","Parma","14","29","71"
+"Current season","Italy","Serie A","Inter","14","29","71"
+"Current season","Russia","Premier League","Baltika","11","27","73"
+"Current season","Scotland","Premiership","Dundee FC","15","27","73"
+"Current season","Australia","A-League","Sydney FC","11","27","73"
+"Current season","England","Championship","Stoke","19","26","74"
+"Current season","England","League One","Port Vale","16","25","75"
+"Current season","France","Ligue 1","Lille","12","25","75"
+"Current season","France","Ligue 1","Le Havre","12","25","75"
+"Current season","Portugal","Liga Portugal","Famalicao","12","25","75"
+"Current season","Portugal","Liga Portugal","Vitoria Guimaraes","12","25","75"
+"Current season","Europe","Champions League","Slavia Prague","4","25","75"
+"Current season","Europe","Champions League","Arsenal","4","25","75"
+"Current season","Argentina","Liga Profesional","Gimnasia L.P.","4","25","75"
+"Current season","Argentina","Liga Profesional","Estudiantes L.P.","4","25","75"
+"Current season","Argentina","Liga Profesional","Aldosivi","4","25","75"
+"Current season","Argentina","Liga Profesional","Barracas Central","4","25","75"
+"Current season","Argentina","Liga Profesional","Platense","4","25","75"
+"Current season","Argentina","Liga Profesional","Dep. Riestra","4","25","75"
+"Current season","Argentina","Liga Profesional","Sarmiento Junin","4","25","75"
+"Current season","Argentina","Liga Profesional","Defensa y Justicia","4","25","75"
+"Current season","Europe","Europa League","Maccabi Tel Aviv","4","25","75"
+"Current season","Europe","Europa League","Betis","4","25","75"
+"Current season","Europe","Europa League","Braga","4","25","75"
+"Current season","Europe","Conference League","Fiorentina","4","25","75"
+"Current season","Europe","Conference League","Samsunspor","4","25","75"
+"Current season","Europe","Conference League","AZ Alkmaar","4","25","75"
+"Current season","Europe","Conference League","Lausanne","4","25","75"
+"Current season","Europe","Conference League","Rijeka","4","25","75"
+"Current season","Europe","Conference League","KuPS","4","25","75"
+"Current season","Greece","Super League","Panetolikos","12","25","75"
+"Current season","France","Ligue 1","Angers","13","23","77"
+"Current season","France","Ligue 2","Bastia","13","23","77"
+"Current season","France","Ligue 2","Montpellier","13","23","77"
+"Current season","Turkey","Super Lig","Antalyaspor","13","23","77"
+"Current season","Scotland","Premiership","Falkirk","14","21","79"
+"Current season","Belgium","Jupiler Pro League","Antwerp","14","21","79"
+"Current season","Europe","Champions League","Benfica","5","20","80"
+"Current season","Europe","Champions League","Galatasaray","5","20","80"
+"Current season","Europe","Champions League","Bayer Leverkusen","5","20","80"
+"Current season","Europe","Champions League","Liverpool","5","20","80"
+"Current season","Russia","Premier League","Dynamo Makhachkala","10","20","80"
+"Current season","Argentina","Liga Profesional","Estudiantes Rio Cuarto","5","20","80"
+"Current season","Argentina","Liga Profesional","River Plate","5","20","80"
+"Current season","Colombia","Primera A","Alianza","5","20","80"
+"Current season","Europe","Europa League","Stuttgart","5","20","80"
+"Current season","Europe","Europa League","Crvena zvezda","5","20","80"
+"Current season","Europe","Europa League","Lille","5","20","80"
+"Current season","Denmark","Superliga","Brondby","11","18","82"
+"Current season","Austria","Bundesliga","Altach","11","18","82"
+"Current season","Saudi Arabia","Saudi Professional League","Al Ahli SC","12","17","83"
+"Current season","Italy","Serie A","Lazio","14","14","86"
+"Current season","Scotland","Premiership","Aberdeen","15","13","87"
+"Current season","Belgium","Jupiler Pro League","St. Liege","14","7","93"
+"Current season","Europe","Champions League","Villarreal","4","0","100"
+"Current season","Europe","Champions League","Pafos","4","0","100"
+"Current season","Europe","Champions League","Atalanta","5","0","100"
+"Current season","Argentina","Liga Profesional","Central Cordoba","4","0","100"
+"Current season","Argentina","Liga Profesional","San Lorenzo","4","0","100"
+"Current season","Brazil","Serie A Betano","Bragantino","2","0","100"
+"Current season","Europe","Europa League","Lyon","4","0","100"
+"Current season","Europe","Conference League","Aberdeen","3","0","100"
+"Current season","Europe","Conference League","Shelbourne","3","0","100"
+"Current season","Europe","Conference League","Zrinjski","4","0","100"
+"Current season","Europe","Conference League","Shkendija","4","0","100"
+"Current season","USA","MLS","Philadelphia Union","1","0","100"
+"Current season","USA","MLS","FC Cincinnati","1","0","100"
+"Current season","USA","MLS","Colorado Rapids","1","0","100"
+"Current season","USA","MLS","Los Angeles FC","1","0","100"
+"Current season","USA","MLS","Orlando City","1","0","100"
+"Current season","USA","MLS","San Diego FC","1","0","100"
+"Current season","USA","MLS","St. Louis City","1","0","100"
+"Current season","USA","MLS","DC United","1","0","100"
+"Current season","USA","MLS","Atlanta Utd","2","0","100"
+"Current season","USA","MLS","Portland Timbers","1","0","100"
+"Current season","USA","MLS","Sporting Kansas City","1","0","100"
+"Current season","USA","MLS","Nashville SC","1","0","100"
+"Current season","USA","MLS","FC Dallas","1","0","100"
+"Current season","USA","MLS","San Jose Earthquakes","1","0","100"
+"Current season","USA","MLS","CF Montreal","3","0","100"
+"Current season","USA","MLS","Houston Dynamo","0","0","0"
+"Current season","Norway","Eliteserien","Valerenga","0","0","0"
+"Current season","Norway","Eliteserien","KFUM Oslo","0","0","0"
+"Current season","Norway","Eliteserien","Sarpsborg 08","0","0","0"
+"Current season","Norway","Eliteserien","Lillestrom","0","0","0"
+"Current season","Norway","Eliteserien","Fredrikstad","0","0","0"
+"Current season","Norway","Eliteserien","HamKam","0","0","0"
+"Current season","Norway","Eliteserien","Start","0","0","0"
+"Current season","Norway","Eliteserien","Viking","0","0","0"
+"Current season","Norway","Eliteserien","Brann","0","0","0"
+"Current season","Norway","Eliteserien","Bodo/Glimt","0","0","0"
+"Current season","Norway","Eliteserien","Aalesund","0","0","0"
+"Current season","Norway","Eliteserien","Sandefjord","0","0","0"
+"Current season","Norway","Eliteserien","Kristiansund","0","0","0"
+"Current season","Norway","Eliteserien","Tromso","0","0","0"
+"Current season","Norway","Eliteserien","Rosenborg","0","0","0"
+"Current season","Norway","Eliteserien","Molde","0","0","0"
