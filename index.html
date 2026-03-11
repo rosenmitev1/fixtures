@@ -88,7 +88,17 @@
 </div>
 
 <script>
-const AK='',BASE='https://v3.football.api-sports.io';
+const BASE='https://v3.football.api-sports.io';
+let apiKey = sessionStorage.getItem('apiFootballKey') || '';
+async function ensureApiKey(){
+  const existing=(apiKey||'').trim();
+  if(existing) return existing;
+  const entered=window.prompt('Enter your API-Football API key:');
+  if(!entered||!entered.trim()) throw new Error('API key is required to scan fixtures.');
+  apiKey=entered.trim();
+  sessionStorage.setItem('apiFootballKey', apiKey);
+  return apiKey;
+}
 const WL={2:{n:"Champions League",c:"Europe",t:0},3:{n:"Europa League",c:"Europe",t:0},848:{n:"Conference League",c:"Europe",t:0},39:{n:"Premier League",c:"England",t:1},40:{n:"Championship",c:"England",t:2},41:{n:"League One",c:"England",t:3},42:{n:"League Two",c:"England",t:3},61:{n:"Ligue 1",c:"France",t:1},78:{n:"Bundesliga",c:"Germany",t:1},79:{n:"2. Bundesliga",c:"Germany",t:2},80:{n:"3. Liga",c:"Germany",t:3},88:{n:"Eredivisie",c:"Netherlands",t:1},94:{n:"Primeira Liga",c:"Portugal",t:1},103:{n:"Eliteserien",c:"Norway",t:1},120:{n:"Superligaen",c:"Denmark",t:1},135:{n:"Serie A",c:"Italy",t:1},140:{n:"La Liga",c:"Spain",t:1},144:{n:"Jupiler Pro",c:"Belgium",t:1},179:{n:"Premiership",c:"Scotland",t:1},203:{n:"Süper Lig",c:"Turkey",t:1},207:{n:"Super League",c:"Switzerland",t:1},208:{n:"Challenge Lg",c:"Switzerland",t:2},218:{n:"Bundesliga",c:"Austria",t:1}};
 const WI=new Set(Object.keys(WL).map(Number));
 let allFix=[];
@@ -281,8 +291,8 @@ async function init(){
   document.getElementById('dp').value=ds(new Date());
   bq();
   await loadBTTSData();
-  // Auto-scan today's fixtures on page load
-  setTimeout(()=>doScan(),300);
+  const ct=document.getElementById('ct');
+  ct.innerHTML=`<div class="empty"><div class="empi">🔑</div><div class="empt">Select a date and press SCAN to enter your API-Football key and load fixtures.</div></div>`;
 }
 function bq(){const w=document.getElementById('qd'),n=new Date(),s=document.getElementById('dp').value;const dd=[{l:'Yesterday',o:-1},{l:'Today',o:0},{l:'Tomorrow',o:1}];w.innerHTML=dd.map(d=>{const dt=new Date(n);dt.setDate(dt.getDate()+d.o);const v=ds(dt);return`<button class="qb${v===s?' on':''}" onclick="pq('${v}')">${d.l}</button>`}).join('')}
 function pq(v){document.getElementById('dp').value=v;doScan()}
@@ -294,8 +304,16 @@ async function doScan(){
   ct.innerHTML=`<div class="ldw"><div class="ldsp"></div><div class="ldt">Fetching fixtures...</div><div class="lds">${fmtD(sel)}</div></div>`;
   document.getElementById('sts').classList.add('hidden');document.getElementById('flt').classList.add('hidden');
   try{
-    const r=await fetch(BASE+`/fixtures?date=${sel}`,{headers:{'x-apisports-key':AK}});
-    if(!r.ok)throw new Error(`HTTP ${r.status}`);
+    const key=await ensureApiKey();
+    const r=await fetch(BASE+`/fixtures?date=${sel}`,{headers:{'x-apisports-key':key}});
+    if(!r.ok){
+      if(r.status===401||r.status===403){
+        apiKey='';
+        sessionStorage.removeItem('apiFootballKey');
+        throw new Error('Invalid or unauthorized API key. Press SCAN again and enter a valid key.');
+      }
+      throw new Error(`HTTP ${r.status}`);
+    }
     const d=await r.json();
     if(d.errors&&Object.keys(d.errors).length)throw new Error(Object.values(d.errors).join(', '));
     allFix=(d.response||[]).filter(f=>WI.has(f.league.id));
