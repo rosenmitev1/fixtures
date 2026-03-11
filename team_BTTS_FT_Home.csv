@@ -1,0 +1,409 @@
+Period,Country,League,Team,Matches Played,BTTS YES %,BTTS NO %
+Current season,Netherlands,Eredivisie,AZ Alkmaar,12,92,8
+Current season,Turkey,Super Lig,Antalyaspor,12,92,8
+Current season,Denmark,Superliga,Odense,11,91,9
+Current season,England,League Two,Fleetwood,17,88,12
+Current season,Scotland,Premiership,Livingston,15,87,13
+Current season,Spain,LaLiga,Real Sociedad,13,85,15
+Current season,Netherlands,Eredivisie,Heerenveen,13,85,15
+Current season,Netherlands,Eredivisie,FC Volendam,13,85,15
+Current season,Germany,2. Bundesliga,Preussen Munster,12,83,17
+Current season,Germany,2. Bundesliga,SG Dynamo Dresden,12,83,17
+Current season,Germany,Bundesliga,FC Koln,12,83,17
+Current season,Germany,Bundesliga,Wolfsburg,12,83,17
+Current season,Netherlands,Eredivisie,Telstar,12,83,17
+Current season,Germany,Bundesliga,Freiburg,11,82,18
+Current season,France,Ligue 2,Clermont,11,82,18
+Current season,Denmark,Superliga,Viborg,11,82,18
+Current season,Austria,Bundesliga,Grazer AK,11,82,18
+Current season,Spain,LaLiga2,Almeria,14,79,21
+Current season,Italy,Serie B,Mantova,14,79,21
+Current season,Belgium,Jupiler Pro League,Cercle Brugge KSV,14,79,21
+Current season,England,Championship,Wrexham,18,78,22
+Current season,Germany,2. Bundesliga,Kaiserslautern,13,77,23
+Current season,Spain,LaLiga2,Andorra,13,77,23
+Current season,Italy,Serie A,Fiorentina,13,77,23
+Current season,Saudi Arabia,Saudi Professional League,Al Fateh,13,77,23
+Current season,England,Championship,QPR,17,76,24
+Current season,Germany,2. Bundesliga,Paderborn,12,75,25
+Current season,France,Ligue 1,Lorient,12,75,25
+Current season,Netherlands,Eredivisie,PSV,12,75,25
+Current season,Netherlands,Eredivisie,Nijmegen,12,75,25
+Current season,Netherlands,Eredivisie,Sittard,12,75,25
+Current season,Portugal,Liga Portugal,Estoril,12,75,25
+Current season,Turkey,Super Lig,Besiktas,12,75,25
+Current season,Turkey,Super Lig,Basaksehir,12,75,25
+Current season,Turkey,Super Lig,Galatasaray,12,75,25
+Current season,Croatia,HNL,Lok. Zagreb,12,75,25
+Current season,Saudi Arabia,Saudi Professional League,Al Najma,12,75,25
+Current season,Saudi Arabia,Saudi Professional League,Al Shabab,12,75,25
+Current season,Germany,2. Bundesliga,Karlsruher SC,11,73,27
+Current season,England,Premier League,Tottenham,15,73,27
+Current season,England,Premier League,Newcastle,15,73,27
+Current season,Italy,Serie B,Empoli,15,73,27
+Current season,France,Ligue 1,Rennes,11,73,27
+Current season,Turkey,Super Lig,Fenerbahce,11,73,27
+Current season,Australia,A-League,Wellington Phoenix,11,73,27
+Current season,Denmark,Superliga,Midtjylland,11,73,27
+Current season,Croatia,HNL,Vukovar 1991,11,73,27
+Current season,England,League Two,Bromley,18,72,28
+Current season,England,Championship,Derby,18,72,28
+Current season,England,League One,Leyton Orient,17,71,29
+Current season,Italy,Serie B,Padova,14,71,29
+Current season,Italy,Serie B,Entella,14,71,29
+Current season,England,Championship,Leicester,17,71,29
+Current season,England,Championship,Birmingham,17,71,29
+Current season,Belgium,Jupiler Pro League,KV Mechelen,14,71,29
+Current season,Australia,A-League,Central Coast Mariners,10,70,30
+Current season,Austria,Bundesliga,Tirol,10,70,30
+Current season,England,League One,Barnsley,16,69,31
+Current season,England,League Two,Gillingham,16,69,31
+Current season,Spain,LaLiga,Mallorca,13,69,31
+Current season,Spain,LaLiga,Alaves,13,69,31
+Current season,Netherlands,Eredivisie,Feyenoord,13,69,31
+Current season,England,League One,Reading,18,67,33
+Current season,Germany,2. Bundesliga,Nurnberg,12,67,33
+Current season,England,Premier League,Brighton,15,67,33
+Current season,Spain,LaLiga,Osasuna,12,67,33
+Current season,Italy,Serie A,Napoli,12,67,33
+Current season,Germany,Bundesliga,Bayern Munich,12,67,33
+Current season,Germany,Bundesliga,Union Berlin,12,67,33
+Current season,Germany,Bundesliga,RB Leipzig,12,67,33
+Current season,France,Ligue 2,Rodez,12,67,33
+Current season,France,Ligue 2,Annecy,12,67,33
+Current season,Netherlands,Eredivisie,G.A. Eagles,12,67,33
+Current season,Portugal,Liga Portugal,Casa Pia,12,67,33
+Current season,Turkey,Super Lig,Trabzonspor,12,67,33
+Current season,Turkey,Super Lig,Gaziantep,12,67,33
+Current season,Turkey,Super Lig,Genclerbirligi,12,67,33
+Current season,Scotland,Premiership,Falkirk,15,67,33
+Current season,Croatia,HNL,Din. Zagreb,12,67,33
+Current season,Croatia,HNL,Slaven Belupo,12,67,33
+Current season,Croatia,HNL,Varazdin,12,67,33
+Current season,Saudi Arabia,Saudi Professional League,Al Hazem,12,67,33
+Current season,Saudi Arabia,Saudi Professional League,Al Ahli SC,12,67,33
+Current season,Saudi Arabia,Saudi Professional League,Al Riyadh,12,67,33
+Current season,Saudi Arabia,Saudi Professional League,Al Okhdood,12,67,33
+Current season,Greece,Super League,Panathinaikos,12,67,33
+Current season,England,League One,Stockport County,17,65,35
+Current season,England,League Two,Crawley,17,65,35
+Current season,England,Premier League,West Ham,14,64,36
+Current season,England,Premier League,Liverpool,14,64,36
+Current season,England,Premier League,Chelsea,14,64,36
+Current season,Spain,LaLiga2,Malaga,14,64,36
+Current season,Spain,LaLiga2,Racing Santander,14,64,36
+Current season,Spain,LaLiga2,Cordoba,14,64,36
+Current season,Spain,LaLiga2,Huesca,14,64,36
+Current season,Italy,Serie B,Cesena,14,64,36
+Current season,Italy,Serie B,Reggiana,14,64,36
+Current season,Italy,Serie B,Bari,14,64,36
+Current season,Italy,Serie B,Pescara,14,64,36
+Current season,Germany,Bundesliga,St. Pauli,11,64,36
+Current season,Australia,A-League,Macarthur FC,11,64,36
+Current season,Belgium,Jupiler Pro League,Charleroi,14,64,36
+Current season,Belgium,Jupiler Pro League,Antwerp,14,64,36
+Current season,Belgium,Jupiler Pro League,Genk,14,64,36
+Current season,Denmark,Superliga,Sonderjyske,11,64,36
+Current season,Denmark,Superliga,Vejle,11,64,36
+Current season,Denmark,Superliga,FC Copenhagen,11,64,36
+Current season,Austria,Bundesliga,Wolfsberger AC,11,64,36
+Current season,Austria,Bundesliga,Altach,11,64,36
+Current season,Croatia,HNL,Istra 1961,11,64,36
+Current season,England,League One,Doncaster,16,63,38
+Current season,Germany,2. Bundesliga,Braunschweig,13,62,38
+Current season,Spain,LaLiga,Celta Vigo,13,62,38
+Current season,Spain,LaLiga,Sevilla,13,62,38
+Current season,Italy,Serie A,Verona,13,62,38
+Current season,Germany,Bundesliga,Hamburger SV,13,62,38
+Current season,France,Ligue 1,Le Havre,13,62,38
+Current season,France,Ligue 1,Monaco,13,62,38
+Current season,France,Ligue 2,Troyes,13,62,38
+Current season,Portugal,Liga Portugal,Vitoria Guimaraes,13,62,38
+Current season,Scotland,Premiership,Dundee FC,13,62,38
+Current season,Belgium,Jupiler Pro League,Leuven,13,62,38
+Current season,Saudi Arabia,Saudi Professional League,Damac,13,62,38
+Current season,England,League One,Lincoln,18,61,39
+Current season,England,League Two,Crewe,18,61,39
+Current season,England,Championship,Hull,18,61,39
+Current season,England,Championship,Blackburn,18,61,39
+Current season,England,Championship,Swansea,18,61,39
+Current season,England,Premier League,Fulham,15,60,40
+Current season,England,Premier League,Leeds,15,60,40
+Current season,England,Premier League,Bournemouth,15,60,40
+Current season,Spain,LaLiga2,Gijon,15,60,40
+Current season,Russia,Premier League,Dynamo Moscow,10,60,40
+Current season,Australia,A-League,Adelaide United,10,60,40
+Current season,Austria,Bundesliga,Sturm Graz,10,60,40
+Current season,Austria,Bundesliga,SK Rapid,10,60,40
+Current season,England,League One,Bolton,17,59,41
+Current season,England,League One,Cardiff,17,59,41
+Current season,England,League Two,Cambridge Utd,17,59,41
+Current season,England,League Two,Chesterfield,17,59,41
+Current season,England,Championship,Coventry,17,59,41
+Current season,England,Championship,Sheffield Utd,17,59,41
+Current season,England,Championship,West Brom,17,59,41
+Current season,Germany,2. Bundesliga,Arminia Bielefeld,12,58,42
+Current season,Germany,2. Bundesliga,Holstein Kiel,12,58,42
+Current season,Germany,2. Bundesliga,Greuther Furth,12,58,42
+Current season,Germany,Bundesliga,Hoffenheim,12,58,42
+Current season,Germany,Bundesliga,Heidenheim,12,58,42
+Current season,France,Ligue 1,Marseille,12,58,42
+Current season,France,Ligue 1,Nice,12,58,42
+Current season,France,Ligue 2,Boulogne,12,58,42
+Current season,France,Ligue 2,St Etienne,12,58,42
+Current season,Netherlands,Eredivisie,Heracles,12,58,42
+Current season,Portugal,Liga Portugal,Benfica,12,58,42
+Current season,Portugal,Liga Portugal,Nacional,12,58,42
+Current season,Turkey,Super Lig,Konyaspor,12,58,42
+Current season,Croatia,HNL,Gorica,12,58,42
+Current season,Saudi Arabia,Saudi Professional League,Al Hilal,12,58,42
+Current season,Saudi Arabia,Saudi Professional League,Al Taawon,12,58,42
+Current season,Saudi Arabia,Saudi Professional League,Neom SC,12,58,42
+Current season,Greece,Super League,Kifisia,12,58,42
+Current season,Greece,Super League,AEL Larissa,12,58,42
+Current season,England,Premier League,Sunderland,14,57,43
+Current season,England,Premier League,Manchester Utd,14,57,43
+Current season,England,Premier League,Brentford,14,57,43
+Current season,Spain,LaLiga,Elche,14,57,43
+Current season,Spain,LaLiga2,Ceuta,14,57,43
+Current season,Spain,LaLiga2,Albacete,14,57,43
+Current season,Spain,LaLiga2,Mirandes,14,57,43
+Current season,Spain,LaLiga2,Castellon,14,57,43
+Current season,Spain,LaLiga2,Real Sociedad B,14,57,43
+Current season,Spain,LaLiga2,Las Palmas,14,57,43
+Current season,Italy,Serie B,Avellino,14,57,43
+Current season,Italy,Serie B,Modena,14,57,43
+Current season,Scotland,Premiership,Aberdeen,14,57,43
+Current season,Belgium,Jupiler Pro League,St. Liege,14,57,43
+Current season,England,League Two,Swindon,18,56,44
+Current season,England,League Two,Barnet,18,56,44
+Current season,England,League Two,Salford,16,56,44
+Current season,England,Championship,Watford,18,56,44
+Current season,Germany,2. Bundesliga,Schalke,11,55,45
+Current season,France,Ligue 2,Red Star,11,55,45
+Current season,Portugal,Liga Portugal,Moreirense,11,55,45
+Current season,Russia,Premier League,Krasnodar,11,55,45
+Current season,Denmark,Superliga,Brondby,11,55,45
+Current season,Denmark,Superliga,Aarhus,11,55,45
+Current season,Denmark,Superliga,Fredericia,11,55,45
+Current season,Austria,Bundesliga,Salzburg,11,55,45
+Current season,Saudi Arabia,Saudi Professional League,Al Nassr,11,55,45
+Current season,Greece,Super League,Levadiakos,11,55,45
+Current season,Greece,Super League,Asteras Tripolis,11,55,45
+Current season,Greece,Super League,Volos,11,55,45
+Current season,Greece,Super League,Aris,11,55,45
+Current season,Germany,2. Bundesliga,Dusseldorf,13,54,46
+Current season,Spain,LaLiga,Betis,13,54,46
+Current season,Spain,LaLiga,Espanyol,13,54,46
+Current season,Spain,LaLiga,Levante,13,54,46
+Current season,Spain,LaLiga,Rayo Vallecano,13,54,46
+Current season,Spain,LaLiga,Valencia,13,54,46
+Current season,Spain,LaLiga,Ath Bilbao,13,54,46
+Current season,Spain,LaLiga,Girona,13,54,46
+Current season,Italy,Serie A,Juventus,13,54,46
+Current season,Italy,Serie A,AC Milan,13,54,46
+Current season,Italy,Serie B,Frosinone,13,54,46
+Current season,Italy,Serie B,Sudtirol,13,54,46
+Current season,France,Ligue 2,Montpellier,13,54,46
+Current season,France,Ligue 2,Amiens,13,54,46
+Current season,France,Ligue 2,Pau FC,13,54,46
+Current season,France,Ligue 2,Dunkerque,13,54,46
+Current season,Netherlands,Eredivisie,Ajax,13,54,46
+Current season,Netherlands,Eredivisie,Utrecht,13,54,46
+Current season,Netherlands,Eredivisie,NAC Breda,13,54,46
+Current season,Netherlands,Eredivisie,Excelsior,13,54,46
+Current season,Belgium,Jupiler Pro League,Waregem,13,54,46
+Current season,Belgium,Jupiler Pro League,Club Brugge KV,13,54,46
+Current season,Belgium,Jupiler Pro League,Gent,13,54,46
+Current season,Saudi Arabia,Saudi Professional League,Al Qadsiah,13,54,46
+Current season,England,League One,Huddersfield,17,53,47
+Current season,England,League One,Plymouth,17,53,47
+Current season,England,League One,Blackpool,17,53,47
+Current season,England,League One,Mansfield,17,53,47
+Current season,England,League One,Peterborough,17,53,47
+Current season,England,League Two,Tranmere,17,53,47
+Current season,England,League Two,MK Dons,17,53,47
+Current season,England,League Two,Newport,17,53,47
+Current season,England,League Two,Colchester,17,53,47
+Current season,Spain,LaLiga2,Eibar,15,53,47
+Current season,Spain,LaLiga2,Granada CF,15,53,47
+Current season,England,Championship,Southampton,17,53,47
+Current season,England,Championship,Stoke,17,53,47
+Current season,England,Championship,Norwich,17,53,47
+Current season,Scotland,Premiership,Rangers,15,53,47
+Current season,Scotland,Premiership,Dundee Utd,15,53,47
+Current season,England,League One,Northampton,18,50,50
+Current season,England,League One,Rotherham,18,50,50
+Current season,England,League One,Port Vale,16,50,50
+Current season,England,League Two,Notts Co,18,50,50
+Current season,Germany,2. Bundesliga,Darmstadt,12,50,50
+Current season,Germany,2. Bundesliga,Bochum,12,50,50
+Current season,England,Premier League,Crystal Palace,14,50,50
+Current season,England,Premier League,Wolves,16,50,50
+Current season,England,Premier League,Arsenal,14,50,50
+Current season,Spain,LaLiga2,Zaragoza,14,50,50
+Current season,Spain,LaLiga2,Cadiz CF,14,50,50
+Current season,Italy,Serie A,Inter,14,50,50
+Current season,Italy,Serie A,Udinese,14,50,50
+Current season,Italy,Serie A,Parma,14,50,50
+Current season,Italy,Serie A,Como,14,50,50
+Current season,Italy,Serie A,Atalanta,14,50,50
+Current season,Italy,Serie A,Torino,14,50,50
+Current season,Italy,Serie B,Spezia,14,50,50
+Current season,Italy,Serie B,Monza,14,50,50
+Current season,Italy,Serie B,Sampdoria,14,50,50
+Current season,Italy,Serie B,Catanzaro,14,50,50
+Current season,Germany,Bundesliga,Bayer Leverkusen,12,50,50
+Current season,Germany,Bundesliga,Mainz,12,50,50
+Current season,Germany,Bundesliga,Eintracht Frankfurt,12,50,50
+Current season,France,Ligue 1,Lille,12,50,50
+Current season,France,Ligue 1,Paris FC,12,50,50
+Current season,France,Ligue 1,Strasbourg,12,50,50
+Current season,France,Ligue 1,Nantes,12,50,50
+Current season,England,Championship,Preston,18,50,50
+Current season,Netherlands,Eredivisie,Groningen,12,50,50
+Current season,Portugal,Liga Portugal,Arouca,12,50,50
+Current season,Turkey,Super Lig,Eyupspor,12,50,50
+Current season,Turkey,Super Lig,Kasimpasa,12,50,50
+Current season,Russia,Premier League,Spartak Moscow,10,50,50
+Current season,Russia,Premier League,Akhmat Grozny,10,50,50
+Current season,Russia,Premier League,Orenburg,10,50,50
+Current season,Russia,Premier League,Sochi,10,50,50
+Current season,Scotland,Premiership,Hibernian,14,50,50
+Current season,Scotland,Premiership,Kilmarnock,14,50,50
+Current season,Australia,A-League,WS Wanderers,10,50,50
+Current season,Belgium,Jupiler Pro League,Anderlecht,14,50,50
+Current season,Austria,Bundesliga,Hartberg,10,50,50
+Current season,Saudi Arabia,Saudi Professional League,Al Kholood,12,50,50
+Current season,Saudi Arabia,Saudi Professional League,Al Ettifaq,12,50,50
+Current season,Saudi Arabia,Saudi Professional League,Al Fayha,12,50,50
+Current season,Greece,Super League,Atromitos,12,50,50
+Current season,England,League One,Luton,17,47,53
+Current season,England,League One,Bradford City,17,47,53
+Current season,England,League Two,Grimsby,17,47,53
+Current season,England,League Two,Walsall,17,47,53
+Current season,England,League Two,Oldham,17,47,53
+Current season,England,Premier League,Everton,15,47,53
+Current season,England,Premier League,Aston Villa,15,47,53
+Current season,England,Premier League,Manchester City,15,47,53
+Current season,England,Championship,Portsmouth,17,47,53
+Current season,England,Championship,Middlesbrough,17,47,53
+Current season,England,Championship,Oxford Utd,17,47,53
+Current season,England,Championship,Charlton,17,47,53
+Current season,Spain,LaLiga,Villarreal,13,46,54
+Current season,Spain,LaLiga,Atl. Madrid,13,46,54
+Current season,Spain,LaLiga,Real Madrid,13,46,54
+Current season,Spain,LaLiga,Barcelona,13,46,54
+Current season,Spain,LaLiga2,Valladolid,13,46,54
+Current season,Spain,LaLiga2,Dep. La Coruna,13,46,54
+Current season,Italy,Serie A,Cremonese,13,46,54
+Current season,Germany,Bundesliga,Augsburg,13,46,54
+Current season,Netherlands,Eredivisie,Twente,13,46,54
+Current season,Belgium,Jupiler Pro League,Dender,13,46,54
+Current season,Belgium,Jupiler Pro League,St. Truiden,13,46,54
+Current season,Croatia,HNL,Rijeka,13,46,54
+Current season,Germany,2. Bundesliga,Elversberg,11,45,55
+Current season,Germany,2. Bundesliga,Hannover,11,45,55
+Current season,Turkey,Super Lig,Kayserispor,11,45,55
+Current season,Denmark,Superliga,Nordsjaelland,11,45,55
+Current season,Austria,Bundesliga,Austria Vienna,11,45,55
+Current season,Austria,Bundesliga,BW Linz,11,45,55
+Current season,Greece,Super League,Panetolikos,11,45,55
+Current season,England,League One,Wycombe,18,44,56
+Current season,England,League One,Stevenage,16,44,56
+Current season,England,Championship,Ipswich,18,44,56
+Current season,England,Championship,Bristol City,18,44,56
+Current season,England,Premier League,Burnley,14,43,57
+Current season,Italy,Serie A,Sassuolo,14,43,57
+Current season,Italy,Serie A,Genoa,14,43,57
+Current season,Italy,Serie B,Venezia,14,43,57
+Current season,Italy,Serie B,Juve Stabia,14,43,57
+Current season,Scotland,Premiership,Celtic,14,43,57
+Current season,Germany,2. Bundesliga,Magdeburg,12,42,58
+Current season,Germany,Bundesliga,Stuttgart,12,42,58
+Current season,Germany,Bundesliga,Werder Bremen,12,42,58
+Current season,Germany,Bundesliga,Dortmund,12,42,58
+Current season,France,Ligue 1,Toulouse,12,42,58
+Current season,France,Ligue 1,Angers,12,42,58
+Current season,France,Ligue 1,Metz,12,42,58
+Current season,France,Ligue 1,Lens,12,42,58
+Current season,France,Ligue 2,Grenoble,12,42,58
+Current season,France,Ligue 2,Laval,12,42,58
+Current season,Netherlands,Eredivisie,Sparta Rotterdam,12,42,58
+Current season,Netherlands,Eredivisie,Zwolle,12,42,58
+Current season,Portugal,Liga Portugal,Tondela,12,42,58
+Current season,Portugal,Liga Portugal,AFS,12,42,58
+Current season,Portugal,Liga Portugal,Rio Ave,12,42,58
+Current season,Portugal,Liga Portugal,Santa Clara,12,42,58
+Current season,Portugal,Liga Portugal,Alverca,12,42,58
+Current season,Portugal,Liga Portugal,Gil Vicente,12,42,58
+Current season,Portugal,Liga Portugal,Estrela,12,42,58
+Current season,Turkey,Super Lig,Samsunspor,12,42,58
+Current season,Turkey,Super Lig,Alanyaspor,12,42,58
+Current season,Croatia,HNL,Hajduk Split,12,42,58
+Current season,Greece,Super League,Panserraikos,12,42,58
+Current season,England,League One,Exeter,17,41,59
+Current season,England,League Two,Accrington,17,41,59
+Current season,England,League One,AFC Wimbledon,15,40,60
+Current season,Russia,Premier League,Zenit,10,40,60
+Current season,Scotland,Premiership,Hearts,15,40,60
+Current season,Australia,A-League,Perth Glory,10,40,60
+Current season,Austria,Bundesliga,Ried,10,40,60
+Current season,Austria,Bundesliga,LASK,10,40,60
+Current season,England,League Two,Shrewsbury,18,39,61
+Current season,England,Championship,Millwall,18,39,61
+Current season,England,Championship,Sheffield Wed,18,39,61
+Current season,England,League Two,Cheltenham,16,38,63
+Current season,England,League Two,Barrow,16,38,63
+Current season,Germany,2. Bundesliga,Hertha Berlin,13,38,62
+Current season,Spain,LaLiga,Getafe,13,38,62
+Current season,Spain,LaLiga2,Burgos CF,13,38,62
+Current season,France,Ligue 2,Guingamp,13,38,62
+Current season,England,Premier League,Nottingham,14,36,64
+Current season,Italy,Serie A,Lecce,14,36,64
+Current season,France,Ligue 1,Lyon,11,36,64
+Current season,Portugal,Liga Portugal,Braga,11,36,64
+Current season,Denmark,Superliga,Silkeborg,11,36,64
+Current season,Denmark,Superliga,Randers FC,11,36,64
+Current season,Saudi Arabia,Saudi Professional League,Al Khaleej,11,36,64
+Current season,England,League Two,Bristol Rovers,17,35,65
+Current season,England,League Two,Harrogate,18,33,67
+Current season,Germany,Bundesliga,B. Monchengladbach,12,33,67
+Current season,France,Ligue 1,Brest,12,33,67
+Current season,France,Ligue 1,Auxerre,12,33,67
+Current season,France,Ligue 2,Reims,12,33,67
+Current season,Portugal,Liga Portugal,Famalicao,12,33,67
+Current season,Portugal,Liga Portugal,FC Porto,12,33,67
+Current season,Turkey,Super Lig,Karagumruk,12,33,67
+Current season,Turkey,Super Lig,Goztepe,12,33,67
+Current season,Turkey,Super Lig,Rizespor,12,33,67
+Current season,Saudi Arabia,Saudi Professional League,Al Ittihad,12,33,67
+Current season,Greece,Super League,OFI Crete,12,33,67
+Current season,Spain,LaLiga2,Leganes,13,31,69
+Current season,Italy,Serie A,Cagliari,13,31,69
+Current season,Italy,Serie A,Lazio,13,31,69
+Current season,Italy,Serie A,Bologna,13,31,69
+Current season,France,Ligue 2,Le Mans,13,31,69
+Current season,Turkey,Super Lig,Kocaelispor,13,31,69
+Current season,Belgium,Jupiler Pro League,RAAL La Louviere,13,31,69
+Current season,Belgium,Jupiler Pro League,Royale Union SG,13,31,69
+Current season,Russia,Premier League,Dynamo Makhachkala,10,30,70
+Current season,England,League One,Burton,17,29,71
+Current season,Spain,LaLiga2,Cultural Leonesa,14,29,71
+Current season,Italy,Serie A,AS Roma,14,29,71
+Current season,Italy,Serie B,Carrarese,14,29,71
+Current season,Belgium,Jupiler Pro League,Westerlo,14,29,71
+Current season,Italy,Serie B,Palermo,15,27,73
+Current season,France,Ligue 2,Bastia,11,27,73
+Current season,France,Ligue 2,Nancy,11,27,73
+Current season,Scotland,Premiership,Motherwell,15,27,73
+Current season,Greece,Super League,AEK Athens,11,27,73
+Current season,Greece,Super League,Olympiacos Piraeus,11,27,73
+Current season,England,League One,Wigan,16,25,75
+Current season,Portugal,Liga Portugal,Sporting CP,12,25,75
+Current season,Greece,Super League,PAOK,12,25,75
+Current season,Spain,LaLiga,Oviedo,13,23,77
+Current season,Croatia,HNL,Osijek,13,23,77
+Current season,Italy,Serie A,Pisa,14,21,79
+Current season,France,Ligue 1,PSG,11,18,82
+Current season,Scotland,Premiership,St. Mirren,14,14,86
