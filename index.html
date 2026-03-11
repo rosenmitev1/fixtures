@@ -94,45 +94,95 @@ const WI=new Set(Object.keys(WL).map(Number));
 let allFix=[];
 
 // ═══ FOOTIQO BTTS DATA — loaded from external CSV files ═══
-// Place team_BTTS_FT_Home.csv and team_BTTS_FT_Away.csv in the same folder/repo
+// Keyed by normalized "team|league" for league-aware matching
 const bttsDB = {home:{}, away:{}};
 let bttsReady = false;
 
-// Get base URL of current page (works on GitHub Pages, Netlify, local)
+// Map API-Football league names → Footiqo CSV league names
+const LEAGUE_MAP = {
+  'Champions League':'Champions League','UEFA Champions League':'Champions League',
+  'Europa League':'Europa League','UEFA Europa League':'Europa League',
+  'Conference League':'Conference League','UEFA Europa Conference League':'Conference League',
+  'Premier League':'Premier League',
+  'Championship':'Championship',
+  'League One':'League One','EFL League One':'League One',
+  'League Two':'League Two','EFL League Two':'League Two',
+  'Ligue 1':'Ligue 1','Ligue 1 Uber Eats':'Ligue 1',
+  'Bundesliga':'Bundesliga',
+  '2. Bundesliga':'2. Bundesliga',
+  '3. Liga':'3. Liga',
+  'Eredivisie':'Eredivisie',
+  'Primeira Liga':'Liga Portugal','Liga Portugal':'Liga Portugal','Primeira Liga Betclic':'Liga Portugal',
+  'Eliteserien':'Eliteserien',
+  'Superligaen':'Superliga','Danish Superliga':'Superliga','Superliga':'Superliga',
+  'Serie A':'Serie A',
+  'La Liga':'LaLiga','LaLiga':'LaLiga',
+  'Jupiler Pro League':'Jupiler Pro League','Jupiler Pro':'Jupiler Pro League',
+  'Premiership':'Premiership','Scottish Premiership':'Premiership',
+  'Süper Lig':'Super Lig','Super Lig':'Super Lig','Turkish Süper Lig':'Super Lig',
+  'Super League':'Super League','Swiss Super League':'Super League',
+  'Challenge League':'Challenge League','Swiss Challenge League':'Challenge League',
+  'Bundesliga (Austria)':'Bundesliga',
+};
+
+// Get base URL of current page
 const BASE_URL = window.location.href.substring(0, window.location.href.lastIndexOf('/') + 1);
+
+// ── Strip accents/diacritics for matching ──
+function stripAccents(s) {
+  return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/ø/g,'o').replace(/Ø/g,'O')
+    .replace(/ı/g,'i').replace(/İ/g,'I')
+    .replace(/ş/g,'s').replace(/Ş/g,'S')
+    .replace(/ğ/g,'g').replace(/Ğ/g,'G')
+    .replace(/ü/g,'u').replace(/Ü/g,'U')
+    .replace(/ö/g,'o').replace(/Ö/g,'O')
+    .replace(/ç/g,'c').replace(/Ç/g,'C')
+    .replace(/å/g,'a').replace(/Å/g,'A')
+    .replace(/æ/g,'ae').replace(/Æ/g,'AE');
+}
+
+// ── Normalize for lookup key: strip accents, lowercase, remove noise ──
+function norm(name) {
+  let s = stripAccents(name).toLowerCase();
+  // Remove common prefixes/suffixes but keep the core name
+  s = s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  return s;
+}
+
+// ── Build a composite key: "normalised_team|normalised_league" ──
+function makeKey(team, league) {
+  return norm(team) + '|' + norm(league);
+}
 
 async function loadBTTSData() {
   const statusEl = document.querySelector('.db-status');
   if (statusEl) statusEl.innerHTML = '⟳ Loading BTTS data from CSV files...';
 
   async function loadCSV(filename, target) {
-    // Try relative URL first, then with explicit base
-    const urls = [
-      BASE_URL + filename,
-      './' + filename,
-      filename
-    ];
+    const urls = [BASE_URL + filename, './' + filename, filename];
     for (const url of urls) {
       try {
         const resp = await fetch(url);
         if (!resp.ok) continue;
         const text = await resp.text();
-        // Check it's actually CSV and not an HTML error page
         if (text.trim().startsWith('<!') || text.trim().startsWith('<html')) continue;
         const lines = text.trim().split('\n');
         let count = 0;
         for (let i = 1; i < lines.length; i++) {
           const cols = parseCSVLine(lines[i]);
           if (cols.length < 6) continue;
-          const team = cols[3], mp = parseInt(cols[4]) || 0, btts = parseInt(cols[5]) || 0;
+          const league = cols[2], team = cols[3];
+          const mp = parseInt(cols[4]) || 0, btts = parseInt(cols[5]) || 0;
           if (!team || mp < 1) continue;
-          const nk = norm(team);
-          if (nk) { target[nk] = {team, mp, btts}; count++; }
+          // Store with league-specific key
+          const key = makeKey(team, league);
+          target[key] = {team, league, mp, btts};
+          count++;
         }
         if (count > 0) return count;
       } catch(e) { /* try next URL */ }
     }
-    console.warn('CSV load failed for ' + filename + ' — tried: ' + urls.join(', '));
     return 0;
   }
 
@@ -156,41 +206,68 @@ async function loadBTTSData() {
   if (statusEl) {
     if (hc > 0 || ac > 0) {
       statusEl.className = 'db-status db-ok';
-      statusEl.innerHTML = '✓ Footiqo BTTS loaded: <b>' + hc + '</b> home, <b>' + ac + '</b> away teams';
+      statusEl.innerHTML = '✓ Footiqo BTTS loaded: <b>' + hc + '</b> home, <b>' + ac + '</b> away entries';
     } else {
       statusEl.className = 'db-status db-empty';
-      statusEl.innerHTML = '✗ CSV files not found. Check that team_BTTS_FT_Home.csv and team_BTTS_FT_Away.csv are in your repo root. Base URL: ' + BASE_URL;
+      statusEl.innerHTML = '✗ CSV files not found. Base URL: ' + BASE_URL;
     }
   }
-  console.log('BTTS DB: ' + hc + ' home, ' + ac + ' away teams. Base URL: ' + BASE_URL);
+  console.log('BTTS DB loaded: ' + hc + ' home, ' + ac + ' away');
 }
 
-// ── NORMALIZE TEAM NAME ──
-function norm(name){
-  return name.toLowerCase()
-    .replace(/\b(fc|afc|ac|ssc|us|as|sc|vfl|vfb|fsv|rb|rcd|ca|cd|rc|og|tsv|sv|fk|bsc|bv|if|1\.|cf)\b/g,'')
-    .replace(/[^a-z0-9]/g,'');
-}
+// ── LEAGUE-AWARE LOOKUP ──
+// apiLeagueName = league name from API-Football fixture
+// teamName = team name from API-Football fixture
+// side = 'home' or 'away'
+function lookupBTTS(teamName, apiLeagueName, side) {
+  const db = bttsDB[side];
+  if (!db || Object.keys(db).length === 0) return null;
 
-// ── LOOKUP ──
-function lookupBTTS(teamName,side){
-  const db=bttsDB[side];
-  if(!db||Object.keys(db).length===0)return null;
-  const nk=norm(teamName);
-  if(db[nk])return db[nk];
-  // Fuzzy
-  for(const[key,val]of Object.entries(db)){
-    if(nk.length>3&&key.length>3&&(nk.includes(key)||key.includes(nk)))return val;
+  const normTeam = norm(teamName);
+
+  // 1) Map API league name to Footiqo CSV league name
+  const csvLeague = LEAGUE_MAP[apiLeagueName] || apiLeagueName;
+  const normLeague = norm(csvLeague);
+
+  // 2) Try exact key match: "team|league"
+  const exactKey = normTeam + '|' + normLeague;
+  if (db[exactKey]) return db[exactKey];
+
+  // 3) Try all entries for this league, find best team match
+  const leagueEntries = Object.entries(db).filter(([k]) => k.endsWith('|' + normLeague));
+
+  // 3a) Exact team name match within league
+  for (const [k, v] of leagueEntries) {
+    const dbTeam = k.split('|')[0];
+    if (dbTeam === normTeam) return v;
   }
-  // Word match
-  const words=teamName.toLowerCase().split(/[\s\-]+/).filter(w=>w.length>3);
-  for(const w of words){
-    const nw=norm(w);
-    if(nw.length<4)continue;
-    for(const[key,val]of Object.entries(db)){
-      if(key.includes(nw))return val;
+
+  // 3b) Full name containment (but BOTH directions must be > 4 chars to avoid "Inter" matching "Inter Miami")
+  for (const [k, v] of leagueEntries) {
+    const dbTeam = k.split('|')[0];
+    // Only match if the shorter name is > 5 chars (avoids "inter" matching everything)
+    const shorter = dbTeam.length < normTeam.length ? dbTeam : normTeam;
+    const longer = dbTeam.length < normTeam.length ? normTeam : dbTeam;
+    if (shorter.length > 5 && longer.includes(shorter)) return v;
+  }
+
+  // 3c) Word-based match: find entry where all significant words of one are in the other
+  for (const [k, v] of leagueEntries) {
+    const dbTeam = k.split('|')[0];
+    const dbWords = dbTeam.split(' ').filter(w => w.length > 3);
+    const teamWords = normTeam.split(' ').filter(w => w.length > 3);
+    if (dbWords.length > 0 && teamWords.length > 0) {
+      // Check if any significant word from the fixture team matches a DB word
+      for (const tw of teamWords) {
+        for (const dw of dbWords) {
+          if (tw.length > 4 && dw.length > 4 && (tw.includes(dw) || dw.includes(tw))) return v;
+        }
+      }
     }
   }
+
+  // 4) If no league-specific match found, DON'T fall back to other leagues
+  //    This prevents "Arsenal Champions League" from getting "Arsenal Premier League" stats
   return null;
 }
 
@@ -248,14 +325,19 @@ function renderFix(sel){
 
 function renderMatch(f){
   const h=f.teams.home,a=f.teams.away,st=f.fixture.status,g=f.goals;
+  const leagueName = f.league.name || '';
+  // Strip accents from API team names for display consistency
+  const hName = fixName(stripAccents(h.name));
+  const aName = fixName(stripAccents(a.name));
   let center='';
   if(st.short==='NS'||st.short==='TBD')center=`<div class="mct sns">${fmtT(f.fixture.date)}</div><div class="mcst sns">${st.short==='TBD'?'TBD':'Kickoff'}</div>`;
   else if(isLive(st.short))center=`<div class="mcs slvs">${g.home??0} – ${g.away??0}</div><div class="mcst slv">${st.elapsed||''}' ${st.short}</div>`;
   else if(isFin(st.short))center=`<div class="mcs">${g.home??0} – ${g.away??0}</div><div class="mcst sft">${stLbl(st.short)} · ${fmtT(f.fixture.date)}</div>`;
   else center=`<div class="mct sps">${stLbl(st.short)}</div><div class="mcst sps">${fmtT(f.fixture.date)}</div>`;
 
-  // Lookup BTTS for both teams
-  const hB=lookupBTTS(fixName(h.name),'home'), aB=lookupBTTS(fixName(a.name),'away');
+  // Lookup BTTS — pass league name for league-aware matching
+  const hB=lookupBTTS(h.name, leagueName, 'home');
+  const aB=lookupBTTS(a.name, leagueName, 'away');
   const combined=(hB&&aB)?Math.round((hB.btts+aB.btts)/2):null;
 
   // Home BTTS chip
@@ -281,10 +363,10 @@ function renderMatch(f){
 
   return`<div class="mx"><div class="mx-top">
     <div class="tm">${h.logo?`<img src="${h.logo}">`:''}
-      <div class="tm-info"><div class="tn">${fixName(h.name)}</div>${hBttsHtml}</div></div>
+      <div class="tm-info"><div class="tn">${hName}</div>${hBttsHtml}</div></div>
     <div class="mc">${center}</div>
     <div class="tm aw">${a.logo?`<img src="${a.logo}">`:''}
-      <div class="tm-info"><div class="tn">${fixName(a.name)}</div>${aBttsHtml}</div></div>
+      <div class="tm-info"><div class="tn">${aName}</div>${aBttsHtml}</div></div>
   </div>${combHtml}</div>`;
 }
 
